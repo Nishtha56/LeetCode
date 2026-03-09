@@ -7,6 +7,7 @@ Important leetcode questions with their solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0130-surrounded-regions](https://github.com/Nishtha56/LeetCode/tree/main/0130-surrounded-regions/) | Medium |
+| [0419-battleships-in-a-board](https://github.com/Nishtha56/LeetCode/tree/main/0419-battleships-in-a-board/) | Medium |
 | [0506-relative-ranks](https://github.com/Nishtha56/LeetCode/tree/main/0506-relative-ranks/) | Easy |
 | [1020-number-of-enclaves](https://github.com/Nishtha56/LeetCode/tree/main/1020-number-of-enclaves/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Nishtha56/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
@@ -16,6 +17,7 @@ Important leetcode questions with their solutions
 | [0130-surrounded-regions](https://github.com/Nishtha56/LeetCode/tree/main/0130-surrounded-regions/) | Medium |
 | [0207-course-schedule](https://github.com/Nishtha56/LeetCode/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/Nishtha56/LeetCode/tree/main/0210-course-schedule-ii/) | Medium |
+| [0419-battleships-in-a-board](https://github.com/Nishtha56/LeetCode/tree/main/0419-battleships-in-a-board/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/Nishtha56/LeetCode/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [1020-number-of-enclaves](https://github.com/Nishtha56/LeetCode/tree/main/1020-number-of-enclaves/) | Medium |
 ## Breadth-First Search
@@ -35,6 +37,7 @@ Important leetcode questions with their solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0130-surrounded-regions](https://github.com/Nishtha56/LeetCode/tree/main/0130-surrounded-regions/) | Medium |
+| [0419-battleships-in-a-board](https://github.com/Nishtha56/LeetCode/tree/main/0419-battleships-in-a-board/) | Medium |
 | [1020-number-of-enclaves](https://github.com/Nishtha56/LeetCode/tree/main/1020-number-of-enclaves/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
