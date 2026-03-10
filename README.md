@@ -84,4 +84,12 @@ Important leetcode questions with their solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3099-harshad-number](https://github.com/Nishtha56/LeetCode/tree/main/3099-harshad-number/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Nishtha56/LeetCode/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Nishtha56/LeetCode/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
 <!---LeetCode Topics End-->
