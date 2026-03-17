@@ -11,7 +11,7 @@ public:
         }
 
         vector<double> dist(n, 0);
-        //dist[start_node]=1;
+        dist[start_node]=1;
         queue<pair<int, double>> q;
         q.push({start_node, 1});
         while(!q.empty()){
