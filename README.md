@@ -93,6 +93,7 @@ Important leetcode questions with their solutions
 | [0802-find-eventual-safe-states](https://github.com/Nishtha56/LeetCode/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Nishtha56/LeetCode/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
 | [1514-path-with-maximum-probability](https://github.com/Nishtha56/LeetCode/tree/main/1514-path-with-maximum-probability/) | Medium |
+| [1791-find-center-of-star-graph](https://github.com/Nishtha56/LeetCode/tree/main/1791-find-center-of-star-graph/) | Easy |
 | [1971-find-if-path-exists-in-graph](https://github.com/Nishtha56/LeetCode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Topological Sort
 | Problem Name | Difficulty |
