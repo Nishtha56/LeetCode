@@ -69,6 +69,7 @@ Important leetcode questions with their solutions
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0242-valid-anagram](https://github.com/Nishtha56/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0295-find-median-from-data-stream](https://github.com/Nishtha56/LeetCode/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/Nishtha56/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0506-relative-ranks](https://github.com/Nishtha56/LeetCode/tree/main/0506-relative-ranks/) | Easy |
@@ -88,6 +89,7 @@ Important leetcode questions with their solutions
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0242-valid-anagram](https://github.com/Nishtha56/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Nishtha56/LeetCode/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/Nishtha56/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Graph Theory
@@ -113,6 +115,7 @@ Important leetcode questions with their solutions
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0242-valid-anagram](https://github.com/Nishtha56/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Nishtha56/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Nishtha56/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Backtracking
