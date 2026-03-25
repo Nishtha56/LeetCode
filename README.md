@@ -8,6 +8,7 @@ Important leetcode questions with their solutions
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Nishtha56/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Nishtha56/LeetCode/tree/main/0027-remove-element/) | Easy |
+| [0088-merge-sorted-array](https://github.com/Nishtha56/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0130-surrounded-regions](https://github.com/Nishtha56/LeetCode/tree/main/0130-surrounded-regions/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Nishtha56/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0419-battleships-in-a-board](https://github.com/Nishtha56/LeetCode/tree/main/0419-battleships-in-a-board/) | Medium |
@@ -77,6 +78,7 @@ Important leetcode questions with their solutions
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/Nishtha56/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0242-valid-anagram](https://github.com/Nishtha56/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0295-find-median-from-data-stream](https://github.com/Nishtha56/LeetCode/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/Nishtha56/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -196,6 +198,7 @@ Important leetcode questions with their solutions
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Nishtha56/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Nishtha56/LeetCode/tree/main/0027-remove-element/) | Easy |
+| [0088-merge-sorted-array](https://github.com/Nishtha56/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0295-find-median-from-data-stream](https://github.com/Nishtha56/LeetCode/tree/main/0295-find-median-from-data-stream/) | Hard |
 ## Design
 | Problem Name | Difficulty |
