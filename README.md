@@ -8,6 +8,7 @@ Important leetcode questions with their solutions
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Nishtha56/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Nishtha56/LeetCode/tree/main/0027-remove-element/) | Easy |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Nishtha56/LeetCode/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Nishtha56/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0130-surrounded-regions](https://github.com/Nishtha56/LeetCode/tree/main/0130-surrounded-regions/) | Medium |
 | [0189-rotate-array](https://github.com/Nishtha56/LeetCode/tree/main/0189-rotate-array/) | Medium |
@@ -200,6 +201,7 @@ Important leetcode questions with their solutions
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Nishtha56/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Nishtha56/LeetCode/tree/main/0027-remove-element/) | Easy |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Nishtha56/LeetCode/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Nishtha56/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0189-rotate-array](https://github.com/Nishtha56/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/Nishtha56/LeetCode/tree/main/0295-find-median-from-data-stream/) | Hard |
