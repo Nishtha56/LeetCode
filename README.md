@@ -22,6 +22,7 @@ Important leetcode questions with their solutions
 | [1514-path-with-maximum-probability](https://github.com/Nishtha56/LeetCode/tree/main/1514-path-with-maximum-probability/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Nishtha56/LeetCode/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Nishtha56/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Nishtha56/LeetCode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Nishtha56/LeetCode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/Nishtha56/LeetCode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Nishtha56/LeetCode/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
@@ -75,6 +76,7 @@ Important leetcode questions with their solutions
 | [1020-number-of-enclaves](https://github.com/Nishtha56/LeetCode/tree/main/1020-number-of-enclaves/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Nishtha56/LeetCode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Nishtha56/LeetCode/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Nishtha56/LeetCode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3546-equal-sum-grid-partition-i](https://github.com/Nishtha56/LeetCode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Nishtha56/LeetCode/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 ## Sorting
@@ -142,6 +144,7 @@ Important leetcode questions with their solutions
 | [0172-factorial-trailing-zeroes](https://github.com/Nishtha56/LeetCode/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0189-rotate-array](https://github.com/Nishtha56/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Nishtha56/LeetCode/tree/main/2177-find-three-consecutive-integers-that-sum-to-a-given-number/) | Medium |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Nishtha56/LeetCode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3099-harshad-number](https://github.com/Nishtha56/LeetCode/tree/main/3099-harshad-number/) | Easy |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Nishtha56/LeetCode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/Nishtha56/LeetCode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
@@ -220,6 +223,7 @@ Important leetcode questions with their solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Nishtha56/LeetCode/tree/main/2177-find-three-consecutive-integers-that-sum-to-a-given-number/) | Medium |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Nishtha56/LeetCode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
