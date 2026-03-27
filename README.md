@@ -101,6 +101,7 @@ Important leetcode questions with their solutions
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0125-valid-palindrome](https://github.com/Nishtha56/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/Nishtha56/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Nishtha56/LeetCode/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/Nishtha56/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
@@ -203,6 +204,7 @@ Important leetcode questions with their solutions
 | [0027-remove-element](https://github.com/Nishtha56/LeetCode/tree/main/0027-remove-element/) | Easy |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Nishtha56/LeetCode/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Nishtha56/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
+| [0125-valid-palindrome](https://github.com/Nishtha56/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0189-rotate-array](https://github.com/Nishtha56/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/Nishtha56/LeetCode/tree/main/0295-find-median-from-data-stream/) | Hard |
 ## Design
