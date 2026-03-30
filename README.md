@@ -115,6 +115,7 @@ Important leetcode questions with their solutions
 | [0242-valid-anagram](https://github.com/Nishtha56/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0383-ransom-note](https://github.com/Nishtha56/LeetCode/tree/main/0383-ransom-note/) | Easy |
 | [0392-is-subsequence](https://github.com/Nishtha56/LeetCode/tree/main/0392-is-subsequence/) | Easy |
+| [0784-letter-case-permutation](https://github.com/Nishtha56/LeetCode/tree/main/0784-letter-case-permutation/) | Medium |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Nishtha56/LeetCode/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/Nishtha56/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/Nishtha56/LeetCode/tree/main/2573-find-the-string-with-lcp/) | Hard |
@@ -155,6 +156,7 @@ Important leetcode questions with their solutions
 | [0040-combination-sum-ii](https://github.com/Nishtha56/LeetCode/tree/main/0040-combination-sum-ii/) | Medium |
 | [0078-subsets](https://github.com/Nishtha56/LeetCode/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/Nishtha56/LeetCode/tree/main/0090-subsets-ii/) | Medium |
+| [0784-letter-case-permutation](https://github.com/Nishtha56/LeetCode/tree/main/0784-letter-case-permutation/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Nishtha56/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -261,4 +263,5 @@ Important leetcode questions with their solutions
 | [0078-subsets](https://github.com/Nishtha56/LeetCode/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/Nishtha56/LeetCode/tree/main/0090-subsets-ii/) | Medium |
 | [0201-bitwise-and-of-numbers-range](https://github.com/Nishtha56/LeetCode/tree/main/0201-bitwise-and-of-numbers-range/) | Medium |
+| [0784-letter-case-permutation](https://github.com/Nishtha56/LeetCode/tree/main/0784-letter-case-permutation/) | Medium |
 <!---LeetCode Topics End-->
