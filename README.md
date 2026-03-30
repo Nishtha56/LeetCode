@@ -10,6 +10,7 @@ Important leetcode questions with their solutions
 | [0027-remove-element](https://github.com/Nishtha56/LeetCode/tree/main/0027-remove-element/) | Easy |
 | [0039-combination-sum](https://github.com/Nishtha56/LeetCode/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/Nishtha56/LeetCode/tree/main/0040-combination-sum-ii/) | Medium |
+| [0075-sort-colors](https://github.com/Nishtha56/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0078-subsets](https://github.com/Nishtha56/LeetCode/tree/main/0078-subsets/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Nishtha56/LeetCode/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Nishtha56/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
@@ -89,6 +90,7 @@ Important leetcode questions with their solutions
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0075-sort-colors](https://github.com/Nishtha56/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Nishtha56/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0242-valid-anagram](https://github.com/Nishtha56/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0295-find-median-from-data-stream](https://github.com/Nishtha56/LeetCode/tree/main/0295-find-median-from-data-stream/) | Hard |
@@ -229,6 +231,7 @@ Important leetcode questions with their solutions
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Nishtha56/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Nishtha56/LeetCode/tree/main/0027-remove-element/) | Easy |
+| [0075-sort-colors](https://github.com/Nishtha56/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Nishtha56/LeetCode/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Nishtha56/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/Nishtha56/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
