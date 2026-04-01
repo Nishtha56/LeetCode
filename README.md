@@ -116,6 +116,7 @@ Important leetcode questions with their solutions
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0012-integer-to-roman](https://github.com/Nishtha56/LeetCode/tree/main/0012-integer-to-roman/) | Medium |
 | [0125-valid-palindrome](https://github.com/Nishtha56/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0205-isomorphic-strings](https://github.com/Nishtha56/LeetCode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/Nishtha56/LeetCode/tree/main/0242-valid-anagram/) | Easy |
@@ -153,6 +154,7 @@ Important leetcode questions with their solutions
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0012-integer-to-roman](https://github.com/Nishtha56/LeetCode/tree/main/0012-integer-to-roman/) | Medium |
 | [0205-isomorphic-strings](https://github.com/Nishtha56/LeetCode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/Nishtha56/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Nishtha56/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -172,6 +174,7 @@ Important leetcode questions with their solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Nishtha56/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
+| [0012-integer-to-roman](https://github.com/Nishtha56/LeetCode/tree/main/0012-integer-to-roman/) | Medium |
 | [0172-factorial-trailing-zeroes](https://github.com/Nishtha56/LeetCode/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0189-rotate-array](https://github.com/Nishtha56/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/Nishtha56/LeetCode/tree/main/1903-largest-odd-number-in-string/) | Easy |
