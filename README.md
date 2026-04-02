@@ -13,6 +13,7 @@ Important leetcode questions with their solutions
 | [0039-combination-sum](https://github.com/Nishtha56/LeetCode/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/Nishtha56/LeetCode/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/Nishtha56/LeetCode/tree/main/0046-permutations/) | Medium |
+| [0047-permutations-ii](https://github.com/Nishtha56/LeetCode/tree/main/0047-permutations-ii/) | Medium |
 | [0075-sort-colors](https://github.com/Nishtha56/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0078-subsets](https://github.com/Nishtha56/LeetCode/tree/main/0078-subsets/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Nishtha56/LeetCode/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
@@ -95,6 +96,7 @@ Important leetcode questions with their solutions
 | ------- | ------- |
 | [0015-3sum](https://github.com/Nishtha56/LeetCode/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/Nishtha56/LeetCode/tree/main/0018-4sum/) | Medium |
+| [0047-permutations-ii](https://github.com/Nishtha56/LeetCode/tree/main/0047-permutations-ii/) | Medium |
 | [0075-sort-colors](https://github.com/Nishtha56/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Nishtha56/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0242-valid-anagram](https://github.com/Nishtha56/LeetCode/tree/main/0242-valid-anagram/) | Easy |
@@ -170,6 +172,7 @@ Important leetcode questions with their solutions
 | [0039-combination-sum](https://github.com/Nishtha56/LeetCode/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/Nishtha56/LeetCode/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/Nishtha56/LeetCode/tree/main/0046-permutations/) | Medium |
+| [0047-permutations-ii](https://github.com/Nishtha56/LeetCode/tree/main/0047-permutations-ii/) | Medium |
 | [0078-subsets](https://github.com/Nishtha56/LeetCode/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/Nishtha56/LeetCode/tree/main/0090-subsets-ii/) | Medium |
 | [0784-letter-case-permutation](https://github.com/Nishtha56/LeetCode/tree/main/0784-letter-case-permutation/) | Medium |
