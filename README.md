@@ -23,6 +23,7 @@ Important leetcode questions with their solutions
 | [0130-surrounded-regions](https://github.com/Nishtha56/LeetCode/tree/main/0130-surrounded-regions/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Nishtha56/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/Nishtha56/LeetCode/tree/main/0189-rotate-array/) | Medium |
+| [0238-product-of-array-except-self](https://github.com/Nishtha56/LeetCode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Nishtha56/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/Nishtha56/LeetCode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0419-battleships-in-a-board](https://github.com/Nishtha56/LeetCode/tree/main/0419-battleships-in-a-board/) | Medium |
@@ -211,6 +212,7 @@ Important leetcode questions with their solutions
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/Nishtha56/LeetCode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Nishtha56/LeetCode/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
 | [3546-equal-sum-grid-partition-i](https://github.com/Nishtha56/LeetCode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 ## Binary Search
