@@ -30,6 +30,7 @@ Important leetcode questions with their solutions
 | [0419-battleships-in-a-board](https://github.com/Nishtha56/LeetCode/tree/main/0419-battleships-in-a-board/) | Medium |
 | [0463-island-perimeter](https://github.com/Nishtha56/LeetCode/tree/main/0463-island-perimeter/) | Easy |
 | [0506-relative-ranks](https://github.com/Nishtha56/LeetCode/tree/main/0506-relative-ranks/) | Easy |
+| [0658-find-k-closest-elements](https://github.com/Nishtha56/LeetCode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [1020-number-of-enclaves](https://github.com/Nishtha56/LeetCode/tree/main/1020-number-of-enclaves/) | Medium |
 | [1046-last-stone-weight](https://github.com/Nishtha56/LeetCode/tree/main/1046-last-stone-weight/) | Easy |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Nishtha56/LeetCode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
@@ -113,6 +114,7 @@ Important leetcode questions with their solutions
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Nishtha56/LeetCode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Nishtha56/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0506-relative-ranks](https://github.com/Nishtha56/LeetCode/tree/main/0506-relative-ranks/) | Easy |
+| [0658-find-k-closest-elements](https://github.com/Nishtha56/LeetCode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Nishtha56/LeetCode/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Nishtha56/LeetCode/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 ## Heap (Priority Queue)
@@ -124,6 +126,7 @@ Important leetcode questions with their solutions
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Nishtha56/LeetCode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Nishtha56/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0506-relative-ranks](https://github.com/Nishtha56/LeetCode/tree/main/0506-relative-ranks/) | Easy |
+| [0658-find-k-closest-elements](https://github.com/Nishtha56/LeetCode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0743-network-delay-time](https://github.com/Nishtha56/LeetCode/tree/main/0743-network-delay-time/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Nishtha56/LeetCode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1046-last-stone-weight](https://github.com/Nishtha56/LeetCode/tree/main/1046-last-stone-weight/) | Easy |
@@ -227,6 +230,7 @@ Important leetcode questions with their solutions
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Nishtha56/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Nishtha56/LeetCode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
+| [0658-find-k-closest-elements](https://github.com/Nishtha56/LeetCode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Nishtha56/LeetCode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Nishtha56/LeetCode/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 ## Greedy
@@ -287,6 +291,7 @@ Important leetcode questions with their solutions
 | [0202-happy-number](https://github.com/Nishtha56/LeetCode/tree/main/0202-happy-number/) | Easy |
 | [0295-find-median-from-data-stream](https://github.com/Nishtha56/LeetCode/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0392-is-subsequence](https://github.com/Nishtha56/LeetCode/tree/main/0392-is-subsequence/) | Easy |
+| [0658-find-k-closest-elements](https://github.com/Nishtha56/LeetCode/tree/main/0658-find-k-closest-elements/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -329,4 +334,8 @@ Important leetcode questions with their solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/Nishtha56/LeetCode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0658-find-k-closest-elements](https://github.com/Nishtha56/LeetCode/tree/main/0658-find-k-closest-elements/) | Medium |
 <!---LeetCode Topics End-->
