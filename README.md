@@ -31,6 +31,7 @@ Important leetcode questions with their solutions
 | [0463-island-perimeter](https://github.com/Nishtha56/LeetCode/tree/main/0463-island-perimeter/) | Easy |
 | [0506-relative-ranks](https://github.com/Nishtha56/LeetCode/tree/main/0506-relative-ranks/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/Nishtha56/LeetCode/tree/main/0658-find-k-closest-elements/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/Nishtha56/LeetCode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1020-number-of-enclaves](https://github.com/Nishtha56/LeetCode/tree/main/1020-number-of-enclaves/) | Medium |
 | [1046-last-stone-weight](https://github.com/Nishtha56/LeetCode/tree/main/1046-last-stone-weight/) | Easy |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Nishtha56/LeetCode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
@@ -117,6 +118,7 @@ Important leetcode questions with their solutions
 | [0451-sort-characters-by-frequency](https://github.com/Nishtha56/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0506-relative-ranks](https://github.com/Nishtha56/LeetCode/tree/main/0506-relative-ranks/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/Nishtha56/LeetCode/tree/main/0658-find-k-closest-elements/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/Nishtha56/LeetCode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Nishtha56/LeetCode/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Nishtha56/LeetCode/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Nishtha56/LeetCode/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
@@ -132,6 +134,7 @@ Important leetcode questions with their solutions
 | [0658-find-k-closest-elements](https://github.com/Nishtha56/LeetCode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0743-network-delay-time](https://github.com/Nishtha56/LeetCode/tree/main/0743-network-delay-time/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Nishtha56/LeetCode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/Nishtha56/LeetCode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1046-last-stone-weight](https://github.com/Nishtha56/LeetCode/tree/main/1046-last-stone-weight/) | Easy |
 | [1514-path-with-maximum-probability](https://github.com/Nishtha56/LeetCode/tree/main/1514-path-with-maximum-probability/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Nishtha56/LeetCode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
@@ -208,6 +211,7 @@ Important leetcode questions with their solutions
 | [0189-rotate-array](https://github.com/Nishtha56/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/Nishtha56/LeetCode/tree/main/0202-happy-number/) | Easy |
 | [0380-insert-delete-getrandom-o1](https://github.com/Nishtha56/LeetCode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/Nishtha56/LeetCode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/Nishtha56/LeetCode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Nishtha56/LeetCode/tree/main/2177-find-three-consecutive-integers-that-sum-to-a-given-number/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Nishtha56/LeetCode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
@@ -249,6 +253,7 @@ Important leetcode questions with their solutions
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Nishtha56/LeetCode/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/Nishtha56/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/Nishtha56/LeetCode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -265,6 +270,7 @@ Important leetcode questions with their solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Nishtha56/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/Nishtha56/LeetCode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Shortest Path
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -344,4 +350,8 @@ Important leetcode questions with their solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0658-find-k-closest-elements](https://github.com/Nishtha56/LeetCode/tree/main/0658-find-k-closest-elements/) | Medium |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Nishtha56/LeetCode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 <!---LeetCode Topics End-->
