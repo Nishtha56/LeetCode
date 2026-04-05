@@ -153,6 +153,7 @@ Important leetcode questions with their solutions
 | [0383-ransom-note](https://github.com/Nishtha56/LeetCode/tree/main/0383-ransom-note/) | Easy |
 | [0392-is-subsequence](https://github.com/Nishtha56/LeetCode/tree/main/0392-is-subsequence/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/Nishtha56/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0657-robot-return-to-origin](https://github.com/Nishtha56/LeetCode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0784-letter-case-permutation](https://github.com/Nishtha56/LeetCode/tree/main/0784-letter-case-permutation/) | Medium |
 | [0796-rotate-string](https://github.com/Nishtha56/LeetCode/tree/main/0796-rotate-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Nishtha56/LeetCode/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
@@ -329,6 +330,7 @@ Important leetcode questions with their solutions
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0657-robot-return-to-origin](https://github.com/Nishtha56/LeetCode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Nishtha56/LeetCode/tree/main/2177-find-three-consecutive-integers-that-sum-to-a-given-number/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Nishtha56/LeetCode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 ## Stack
