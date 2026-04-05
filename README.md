@@ -14,6 +14,7 @@ Important leetcode questions with their solutions
 | [0040-combination-sum-ii](https://github.com/Nishtha56/LeetCode/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/Nishtha56/LeetCode/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/Nishtha56/LeetCode/tree/main/0047-permutations-ii/) | Medium |
+| [0049-group-anagrams](https://github.com/Nishtha56/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0054-spiral-matrix](https://github.com/Nishtha56/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/Nishtha56/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0078-subsets](https://github.com/Nishtha56/LeetCode/tree/main/0078-subsets/) | Medium |
@@ -115,6 +116,7 @@ Important leetcode questions with their solutions
 | [0015-3sum](https://github.com/Nishtha56/LeetCode/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/Nishtha56/LeetCode/tree/main/0018-4sum/) | Medium |
 | [0047-permutations-ii](https://github.com/Nishtha56/LeetCode/tree/main/0047-permutations-ii/) | Medium |
+| [0049-group-anagrams](https://github.com/Nishtha56/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0075-sort-colors](https://github.com/Nishtha56/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Nishtha56/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0242-valid-anagram](https://github.com/Nishtha56/LeetCode/tree/main/0242-valid-anagram/) | Easy |
@@ -150,6 +152,7 @@ Important leetcode questions with their solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0012-integer-to-roman](https://github.com/Nishtha56/LeetCode/tree/main/0012-integer-to-roman/) | Medium |
+| [0049-group-anagrams](https://github.com/Nishtha56/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0125-valid-palindrome](https://github.com/Nishtha56/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0205-isomorphic-strings](https://github.com/Nishtha56/LeetCode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/Nishtha56/LeetCode/tree/main/0242-valid-anagram/) | Easy |
@@ -190,6 +193,7 @@ Important leetcode questions with their solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0012-integer-to-roman](https://github.com/Nishtha56/LeetCode/tree/main/0012-integer-to-roman/) | Medium |
+| [0049-group-anagrams](https://github.com/Nishtha56/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Nishtha56/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0202-happy-number](https://github.com/Nishtha56/LeetCode/tree/main/0202-happy-number/) | Easy |
 | [0205-isomorphic-strings](https://github.com/Nishtha56/LeetCode/tree/main/0205-isomorphic-strings/) | Easy |
