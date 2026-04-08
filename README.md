@@ -23,6 +23,7 @@ Important leetcode questions with their solutions
 | [0090-subsets-ii](https://github.com/Nishtha56/LeetCode/tree/main/0090-subsets-ii/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Nishtha56/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0130-surrounded-regions](https://github.com/Nishtha56/LeetCode/tree/main/0130-surrounded-regions/) | Medium |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Nishtha56/LeetCode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Nishtha56/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/Nishtha56/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/Nishtha56/LeetCode/tree/main/0238-product-of-array-except-self/) | Medium |
@@ -232,6 +233,7 @@ Important leetcode questions with their solutions
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Nishtha56/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
 | [0012-integer-to-roman](https://github.com/Nishtha56/LeetCode/tree/main/0012-integer-to-roman/) | Medium |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Nishtha56/LeetCode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0172-factorial-trailing-zeroes](https://github.com/Nishtha56/LeetCode/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0189-rotate-array](https://github.com/Nishtha56/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/Nishtha56/LeetCode/tree/main/0202-happy-number/) | Easy |
@@ -363,6 +365,7 @@ Important leetcode questions with their solutions
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Nishtha56/LeetCode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0155-min-stack](https://github.com/Nishtha56/LeetCode/tree/main/0155-min-stack/) | Medium |
 | [1472-design-browser-history](https://github.com/Nishtha56/LeetCode/tree/main/1472-design-browser-history/) | Medium |
 ## Enumeration
