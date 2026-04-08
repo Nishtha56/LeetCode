@@ -57,6 +57,7 @@ Important leetcode questions with their solutions
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Nishtha56/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0130-surrounded-regions](https://github.com/Nishtha56/LeetCode/tree/main/0130-surrounded-regions/) | Medium |
 | [0207-course-schedule](https://github.com/Nishtha56/LeetCode/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/Nishtha56/LeetCode/tree/main/0210-course-schedule-ii/) | Medium |
@@ -73,6 +74,7 @@ Important leetcode questions with their solutions
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Nishtha56/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0130-surrounded-regions](https://github.com/Nishtha56/LeetCode/tree/main/0130-surrounded-regions/) | Medium |
 | [0207-course-schedule](https://github.com/Nishtha56/LeetCode/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/Nishtha56/LeetCode/tree/main/0210-course-schedule-ii/) | Medium |
@@ -403,4 +405,12 @@ Important leetcode questions with their solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1472-design-browser-history](https://github.com/Nishtha56/LeetCode/tree/main/1472-design-browser-history/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Nishtha56/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Nishtha56/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
