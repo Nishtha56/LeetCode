@@ -26,6 +26,7 @@ Important leetcode questions with their solutions
 | [0150-evaluate-reverse-polish-notation](https://github.com/Nishtha56/LeetCode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Nishtha56/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/Nishtha56/LeetCode/tree/main/0189-rotate-array/) | Medium |
+| [0229-majority-element-ii](https://github.com/Nishtha56/LeetCode/tree/main/0229-majority-element-ii/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/Nishtha56/LeetCode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0268-missing-number](https://github.com/Nishtha56/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Nishtha56/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -128,6 +129,7 @@ Important leetcode questions with their solutions
 | [0049-group-anagrams](https://github.com/Nishtha56/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0075-sort-colors](https://github.com/Nishtha56/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Nishtha56/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
+| [0229-majority-element-ii](https://github.com/Nishtha56/LeetCode/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/Nishtha56/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/Nishtha56/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0295-find-median-from-data-stream](https://github.com/Nishtha56/LeetCode/tree/main/0295-find-median-from-data-stream/) | Hard |
@@ -209,6 +211,7 @@ Important leetcode questions with their solutions
 | [0128-longest-consecutive-sequence](https://github.com/Nishtha56/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0202-happy-number](https://github.com/Nishtha56/LeetCode/tree/main/0202-happy-number/) | Easy |
 | [0205-isomorphic-strings](https://github.com/Nishtha56/LeetCode/tree/main/0205-isomorphic-strings/) | Easy |
+| [0229-majority-element-ii](https://github.com/Nishtha56/LeetCode/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/Nishtha56/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/Nishtha56/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Nishtha56/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -301,6 +304,7 @@ Important leetcode questions with their solutions
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0229-majority-element-ii](https://github.com/Nishtha56/LeetCode/tree/main/0229-majority-element-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Nishtha56/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0383-ransom-note](https://github.com/Nishtha56/LeetCode/tree/main/0383-ransom-note/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/Nishtha56/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
