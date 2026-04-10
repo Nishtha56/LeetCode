@@ -237,6 +237,7 @@ Important leetcode questions with their solutions
 | [0172-factorial-trailing-zeroes](https://github.com/Nishtha56/LeetCode/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0189-rotate-array](https://github.com/Nishtha56/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/Nishtha56/LeetCode/tree/main/0202-happy-number/) | Easy |
+| [0292-nim-game](https://github.com/Nishtha56/LeetCode/tree/main/0292-nim-game/) | Easy |
 | [0380-insert-delete-getrandom-o1](https://github.com/Nishtha56/LeetCode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Nishtha56/LeetCode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/Nishtha56/LeetCode/tree/main/1903-largest-odd-number-in-string/) | Easy |
@@ -424,4 +425,12 @@ Important leetcode questions with their solutions
 | [0100-same-tree](https://github.com/Nishtha56/LeetCode/tree/main/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Nishtha56/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0993-cousins-in-binary-tree](https://github.com/Nishtha56/LeetCode/tree/main/0993-cousins-in-binary-tree/) | Easy |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/Nishtha56/LeetCode/tree/main/0292-nim-game/) | Easy |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/Nishtha56/LeetCode/tree/main/0292-nim-game/) | Easy |
 <!---LeetCode Topics End-->
