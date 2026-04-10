@@ -237,6 +237,7 @@ Important leetcode questions with their solutions
 | [0172-factorial-trailing-zeroes](https://github.com/Nishtha56/LeetCode/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0189-rotate-array](https://github.com/Nishtha56/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/Nishtha56/LeetCode/tree/main/0202-happy-number/) | Easy |
+| [0258-add-digits](https://github.com/Nishtha56/LeetCode/tree/main/0258-add-digits/) | Easy |
 | [0292-nim-game](https://github.com/Nishtha56/LeetCode/tree/main/0292-nim-game/) | Easy |
 | [0380-insert-delete-getrandom-o1](https://github.com/Nishtha56/LeetCode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Nishtha56/LeetCode/tree/main/0973-k-closest-points-to-origin/) | Medium |
@@ -357,6 +358,7 @@ Important leetcode questions with their solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/Nishtha56/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
+| [0258-add-digits](https://github.com/Nishtha56/LeetCode/tree/main/0258-add-digits/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/Nishtha56/LeetCode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/Nishtha56/LeetCode/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1603-design-parking-system](https://github.com/Nishtha56/LeetCode/tree/main/1603-design-parking-system/) | Easy |
@@ -433,4 +435,8 @@ Important leetcode questions with their solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0292-nim-game](https://github.com/Nishtha56/LeetCode/tree/main/0292-nim-game/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0258-add-digits](https://github.com/Nishtha56/LeetCode/tree/main/0258-add-digits/) | Easy |
 <!---LeetCode Topics End-->
