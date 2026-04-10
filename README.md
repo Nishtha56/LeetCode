@@ -167,6 +167,7 @@ Important leetcode questions with their solutions
 | [0242-valid-anagram](https://github.com/Nishtha56/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0383-ransom-note](https://github.com/Nishtha56/LeetCode/tree/main/0383-ransom-note/) | Easy |
 | [0392-is-subsequence](https://github.com/Nishtha56/LeetCode/tree/main/0392-is-subsequence/) | Easy |
+| [0412-fizz-buzz](https://github.com/Nishtha56/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/Nishtha56/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/Nishtha56/LeetCode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0784-letter-case-permutation](https://github.com/Nishtha56/LeetCode/tree/main/0784-letter-case-permutation/) | Medium |
@@ -240,6 +241,7 @@ Important leetcode questions with their solutions
 | [0258-add-digits](https://github.com/Nishtha56/LeetCode/tree/main/0258-add-digits/) | Easy |
 | [0292-nim-game](https://github.com/Nishtha56/LeetCode/tree/main/0292-nim-game/) | Easy |
 | [0380-insert-delete-getrandom-o1](https://github.com/Nishtha56/LeetCode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
+| [0412-fizz-buzz](https://github.com/Nishtha56/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/Nishtha56/LeetCode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Nishtha56/LeetCode/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/Nishtha56/LeetCode/tree/main/1903-largest-odd-number-in-string/) | Easy |
@@ -360,6 +362,7 @@ Important leetcode questions with their solutions
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/Nishtha56/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
 | [0258-add-digits](https://github.com/Nishtha56/LeetCode/tree/main/0258-add-digits/) | Easy |
+| [0412-fizz-buzz](https://github.com/Nishtha56/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/Nishtha56/LeetCode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/Nishtha56/LeetCode/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1603-design-parking-system](https://github.com/Nishtha56/LeetCode/tree/main/1603-design-parking-system/) | Easy |
