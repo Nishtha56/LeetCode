@@ -220,6 +220,7 @@ Important leetcode questions with their solutions
 | [0012-integer-to-roman](https://github.com/Nishtha56/LeetCode/tree/main/0012-integer-to-roman/) | Medium |
 | [0049-group-anagrams](https://github.com/Nishtha56/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Nishtha56/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0142-linked-list-cycle-ii](https://github.com/Nishtha56/LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0202-happy-number](https://github.com/Nishtha56/LeetCode/tree/main/0202-happy-number/) | Easy |
 | [0205-isomorphic-strings](https://github.com/Nishtha56/LeetCode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0229-majority-element-ii](https://github.com/Nishtha56/LeetCode/tree/main/0229-majority-element-ii/) | Medium |
@@ -342,6 +343,7 @@ Important leetcode questions with their solutions
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Nishtha56/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
 | [0023-merge-k-sorted-lists](https://github.com/Nishtha56/LeetCode/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0142-linked-list-cycle-ii](https://github.com/Nishtha56/LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [1472-design-browser-history](https://github.com/Nishtha56/LeetCode/tree/main/1472-design-browser-history/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
@@ -359,6 +361,7 @@ Important leetcode questions with their solutions
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Nishtha56/LeetCode/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Nishtha56/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/Nishtha56/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/Nishtha56/LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Nishtha56/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/Nishtha56/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/Nishtha56/LeetCode/tree/main/0202-happy-number/) | Easy |
