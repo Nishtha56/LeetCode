@@ -354,6 +354,7 @@ Important leetcode questions with their solutions
 | [0023-merge-k-sorted-lists](https://github.com/Nishtha56/LeetCode/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0142-linked-list-cycle-ii](https://github.com/Nishtha56/LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [1472-design-browser-history](https://github.com/Nishtha56/LeetCode/tree/main/1472-design-browser-history/) | Medium |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/Nishtha56/LeetCode/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -378,6 +379,7 @@ Important leetcode questions with their solutions
 | [0349-intersection-of-two-arrays](https://github.com/Nishtha56/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0392-is-subsequence](https://github.com/Nishtha56/LeetCode/tree/main/0392-is-subsequence/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/Nishtha56/LeetCode/tree/main/0658-find-k-closest-elements/) | Medium |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/Nishtha56/LeetCode/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
