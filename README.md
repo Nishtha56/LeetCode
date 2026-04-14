@@ -75,6 +75,7 @@ Important leetcode questions with their solutions
 | [0463-island-perimeter](https://github.com/Nishtha56/LeetCode/tree/main/0463-island-perimeter/) | Easy |
 | [0513-find-bottom-left-tree-value](https://github.com/Nishtha56/LeetCode/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Nishtha56/LeetCode/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
+| [0684-redundant-connection](https://github.com/Nishtha56/LeetCode/tree/main/0684-redundant-connection/) | Medium |
 | [0743-network-delay-time](https://github.com/Nishtha56/LeetCode/tree/main/0743-network-delay-time/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Nishtha56/LeetCode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/Nishtha56/LeetCode/tree/main/0802-find-eventual-safe-states/) | Medium |
@@ -96,6 +97,7 @@ Important leetcode questions with their solutions
 | [0463-island-perimeter](https://github.com/Nishtha56/LeetCode/tree/main/0463-island-perimeter/) | Easy |
 | [0513-find-bottom-left-tree-value](https://github.com/Nishtha56/LeetCode/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Nishtha56/LeetCode/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
+| [0684-redundant-connection](https://github.com/Nishtha56/LeetCode/tree/main/0684-redundant-connection/) | Medium |
 | [0743-network-delay-time](https://github.com/Nishtha56/LeetCode/tree/main/0743-network-delay-time/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Nishtha56/LeetCode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/Nishtha56/LeetCode/tree/main/0802-find-eventual-safe-states/) | Medium |
@@ -112,6 +114,7 @@ Important leetcode questions with their solutions
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Nishtha56/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0130-surrounded-regions](https://github.com/Nishtha56/LeetCode/tree/main/0130-surrounded-regions/) | Medium |
+| [0684-redundant-connection](https://github.com/Nishtha56/LeetCode/tree/main/0684-redundant-connection/) | Medium |
 | [0886-possible-bipartition](https://github.com/Nishtha56/LeetCode/tree/main/0886-possible-bipartition/) | Medium |
 | [1020-number-of-enclaves](https://github.com/Nishtha56/LeetCode/tree/main/1020-number-of-enclaves/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Nishtha56/LeetCode/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
@@ -204,6 +207,7 @@ Important leetcode questions with their solutions
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/Nishtha56/LeetCode/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/Nishtha56/LeetCode/tree/main/0210-course-schedule-ii/) | Medium |
+| [0684-redundant-connection](https://github.com/Nishtha56/LeetCode/tree/main/0684-redundant-connection/) | Medium |
 | [0743-network-delay-time](https://github.com/Nishtha56/LeetCode/tree/main/0743-network-delay-time/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Nishtha56/LeetCode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/Nishtha56/LeetCode/tree/main/0802-find-eventual-safe-states/) | Medium |
