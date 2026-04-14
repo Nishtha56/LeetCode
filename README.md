@@ -277,6 +277,7 @@ Important leetcode questions with their solutions
 | [0292-nim-game](https://github.com/Nishtha56/LeetCode/tree/main/0292-nim-game/) | Easy |
 | [0380-insert-delete-getrandom-o1](https://github.com/Nishtha56/LeetCode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0412-fizz-buzz](https://github.com/Nishtha56/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
+| [0445-add-two-numbers-ii](https://github.com/Nishtha56/LeetCode/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Nishtha56/LeetCode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Nishtha56/LeetCode/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/Nishtha56/LeetCode/tree/main/1903-largest-odd-number-in-string/) | Easy |
@@ -359,6 +360,7 @@ Important leetcode questions with their solutions
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Nishtha56/LeetCode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0023-merge-k-sorted-lists](https://github.com/Nishtha56/LeetCode/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0142-linked-list-cycle-ii](https://github.com/Nishtha56/LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0445-add-two-numbers-ii](https://github.com/Nishtha56/LeetCode/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [1472-design-browser-history](https://github.com/Nishtha56/LeetCode/tree/main/1472-design-browser-history/) | Medium |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Nishtha56/LeetCode/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Nishtha56/LeetCode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
@@ -421,6 +423,7 @@ Important leetcode questions with their solutions
 | ------- | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Nishtha56/LeetCode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0155-min-stack](https://github.com/Nishtha56/LeetCode/tree/main/0155-min-stack/) | Medium |
+| [0445-add-two-numbers-ii](https://github.com/Nishtha56/LeetCode/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [1472-design-browser-history](https://github.com/Nishtha56/LeetCode/tree/main/1472-design-browser-history/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Nishtha56/LeetCode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Enumeration
