@@ -105,6 +105,7 @@ Important leetcode questions with their solutions
 | [0802-find-eventual-safe-states](https://github.com/Nishtha56/LeetCode/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0841-keys-and-rooms](https://github.com/Nishtha56/LeetCode/tree/main/0841-keys-and-rooms/) | Medium |
 | [0886-possible-bipartition](https://github.com/Nishtha56/LeetCode/tree/main/0886-possible-bipartition/) | Medium |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/Nishtha56/LeetCode/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
 | [0993-cousins-in-binary-tree](https://github.com/Nishtha56/LeetCode/tree/main/0993-cousins-in-binary-tree/) | Easy |
 | [1020-number-of-enclaves](https://github.com/Nishtha56/LeetCode/tree/main/1020-number-of-enclaves/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Nishtha56/LeetCode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
@@ -485,6 +486,7 @@ Important leetcode questions with their solutions
 | [0513-find-bottom-left-tree-value](https://github.com/Nishtha56/LeetCode/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Nishtha56/LeetCode/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0872-leaf-similar-trees](https://github.com/Nishtha56/LeetCode/tree/main/0872-leaf-similar-trees/) | Easy |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/Nishtha56/LeetCode/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
 | [0993-cousins-in-binary-tree](https://github.com/Nishtha56/LeetCode/tree/main/0993-cousins-in-binary-tree/) | Easy |
 | [1609-even-odd-tree](https://github.com/Nishtha56/LeetCode/tree/main/1609-even-odd-tree/) | Medium |
 ## Binary Tree
@@ -495,6 +497,7 @@ Important leetcode questions with their solutions
 | [0513-find-bottom-left-tree-value](https://github.com/Nishtha56/LeetCode/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Nishtha56/LeetCode/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0872-leaf-similar-trees](https://github.com/Nishtha56/LeetCode/tree/main/0872-leaf-similar-trees/) | Easy |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/Nishtha56/LeetCode/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
 | [0993-cousins-in-binary-tree](https://github.com/Nishtha56/LeetCode/tree/main/0993-cousins-in-binary-tree/) | Easy |
 | [1609-even-odd-tree](https://github.com/Nishtha56/LeetCode/tree/main/1609-even-odd-tree/) | Medium |
 ## Brainteaser
