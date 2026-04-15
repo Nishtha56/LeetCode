@@ -84,6 +84,7 @@ Important leetcode questions with their solutions
 | [0841-keys-and-rooms](https://github.com/Nishtha56/LeetCode/tree/main/0841-keys-and-rooms/) | Medium |
 | [0872-leaf-similar-trees](https://github.com/Nishtha56/LeetCode/tree/main/0872-leaf-similar-trees/) | Easy |
 | [0886-possible-bipartition](https://github.com/Nishtha56/LeetCode/tree/main/0886-possible-bipartition/) | Medium |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Nishtha56/LeetCode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [0993-cousins-in-binary-tree](https://github.com/Nishtha56/LeetCode/tree/main/0993-cousins-in-binary-tree/) | Easy |
 | [1020-number-of-enclaves](https://github.com/Nishtha56/LeetCode/tree/main/1020-number-of-enclaves/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Nishtha56/LeetCode/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
@@ -106,6 +107,7 @@ Important leetcode questions with their solutions
 | [0841-keys-and-rooms](https://github.com/Nishtha56/LeetCode/tree/main/0841-keys-and-rooms/) | Medium |
 | [0886-possible-bipartition](https://github.com/Nishtha56/LeetCode/tree/main/0886-possible-bipartition/) | Medium |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Nishtha56/LeetCode/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Nishtha56/LeetCode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [0993-cousins-in-binary-tree](https://github.com/Nishtha56/LeetCode/tree/main/0993-cousins-in-binary-tree/) | Easy |
 | [1020-number-of-enclaves](https://github.com/Nishtha56/LeetCode/tree/main/1020-number-of-enclaves/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Nishtha56/LeetCode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
@@ -162,6 +164,7 @@ Important leetcode questions with their solutions
 | [0628-maximum-product-of-three-numbers](https://github.com/Nishtha56/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/Nishtha56/LeetCode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Nishtha56/LeetCode/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Nishtha56/LeetCode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Nishtha56/LeetCode/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [2463-minimum-total-distance-traveled](https://github.com/Nishtha56/LeetCode/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Nishtha56/LeetCode/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
@@ -251,6 +254,7 @@ Important leetcode questions with their solutions
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Nishtha56/LeetCode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/Nishtha56/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/Nishtha56/LeetCode/tree/main/0874-walking-robot-simulation/) | Medium |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Nishtha56/LeetCode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Nishtha56/LeetCode/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/Nishtha56/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Nishtha56/LeetCode/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
@@ -487,6 +491,7 @@ Important leetcode questions with their solutions
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Nishtha56/LeetCode/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0872-leaf-similar-trees](https://github.com/Nishtha56/LeetCode/tree/main/0872-leaf-similar-trees/) | Easy |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Nishtha56/LeetCode/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Nishtha56/LeetCode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [0993-cousins-in-binary-tree](https://github.com/Nishtha56/LeetCode/tree/main/0993-cousins-in-binary-tree/) | Easy |
 | [1609-even-odd-tree](https://github.com/Nishtha56/LeetCode/tree/main/1609-even-odd-tree/) | Medium |
 ## Binary Tree
@@ -498,6 +503,7 @@ Important leetcode questions with their solutions
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Nishtha56/LeetCode/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0872-leaf-similar-trees](https://github.com/Nishtha56/LeetCode/tree/main/0872-leaf-similar-trees/) | Easy |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Nishtha56/LeetCode/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Nishtha56/LeetCode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [0993-cousins-in-binary-tree](https://github.com/Nishtha56/LeetCode/tree/main/0993-cousins-in-binary-tree/) | Easy |
 | [1609-even-odd-tree](https://github.com/Nishtha56/LeetCode/tree/main/1609-even-odd-tree/) | Medium |
 ## Brainteaser
