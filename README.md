@@ -375,6 +375,7 @@ Important leetcode questions with their solutions
 | [1472-design-browser-history](https://github.com/Nishtha56/LeetCode/tree/main/1472-design-browser-history/) | Medium |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Nishtha56/LeetCode/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Nishtha56/LeetCode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
+| [2181-merge-nodes-in-between-zeros](https://github.com/Nishtha56/LeetCode/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -428,6 +429,7 @@ Important leetcode questions with their solutions
 | [1603-design-parking-system](https://github.com/Nishtha56/LeetCode/tree/main/1603-design-parking-system/) | Easy |
 | [2069-walking-robot-simulation-ii](https://github.com/Nishtha56/LeetCode/tree/main/2069-walking-robot-simulation-ii/) | Medium |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Nishtha56/LeetCode/tree/main/2177-find-three-consecutive-integers-that-sum-to-a-given-number/) | Medium |
+| [2181-merge-nodes-in-between-zeros](https://github.com/Nishtha56/LeetCode/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Nishtha56/LeetCode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
