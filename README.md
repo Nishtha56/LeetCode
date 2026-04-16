@@ -204,6 +204,7 @@ Important leetcode questions with their solutions
 | [0451-sort-characters-by-frequency](https://github.com/Nishtha56/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0520-detect-capital](https://github.com/Nishtha56/LeetCode/tree/main/0520-detect-capital/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/Nishtha56/LeetCode/tree/main/0657-robot-return-to-origin/) | Easy |
+| [0709-to-lower-case](https://github.com/Nishtha56/LeetCode/tree/main/0709-to-lower-case/) | Easy |
 | [0784-letter-case-permutation](https://github.com/Nishtha56/LeetCode/tree/main/0784-letter-case-permutation/) | Medium |
 | [0796-rotate-string](https://github.com/Nishtha56/LeetCode/tree/main/0796-rotate-string/) | Easy |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Nishtha56/LeetCode/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
