@@ -320,6 +320,7 @@ Important leetcode questions with their solutions
 | [3099-harshad-number](https://github.com/Nishtha56/LeetCode/tree/main/3099-harshad-number/) | Easy |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Nishtha56/LeetCode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Nishtha56/LeetCode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
+| [3783-mirror-distance-of-an-integer](https://github.com/Nishtha56/LeetCode/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/Nishtha56/LeetCode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
