@@ -225,6 +225,7 @@ Important leetcode questions with their solutions
 | [1903-largest-odd-number-in-string](https://github.com/Nishtha56/LeetCode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/Nishtha56/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Nishtha56/LeetCode/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
+| [2390-removing-stars-from-a-string](https://github.com/Nishtha56/LeetCode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/Nishtha56/LeetCode/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2785-sort-vowels-in-a-string](https://github.com/Nishtha56/LeetCode/tree/main/2785-sort-vowels-in-a-string/) | Medium |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Nishtha56/LeetCode/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
@@ -458,6 +459,7 @@ Important leetcode questions with their solutions
 | [2069-walking-robot-simulation-ii](https://github.com/Nishtha56/LeetCode/tree/main/2069-walking-robot-simulation-ii/) | Medium |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Nishtha56/LeetCode/tree/main/2177-find-three-consecutive-integers-that-sum-to-a-given-number/) | Medium |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Nishtha56/LeetCode/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
+| [2390-removing-stars-from-a-string](https://github.com/Nishtha56/LeetCode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Nishtha56/LeetCode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
@@ -467,6 +469,7 @@ Important leetcode questions with their solutions
 | [0445-add-two-numbers-ii](https://github.com/Nishtha56/LeetCode/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [1472-design-browser-history](https://github.com/Nishtha56/LeetCode/tree/main/1472-design-browser-history/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Nishtha56/LeetCode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
+| [2390-removing-stars-from-a-string](https://github.com/Nishtha56/LeetCode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
