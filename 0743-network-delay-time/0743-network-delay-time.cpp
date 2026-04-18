@@ -11,12 +11,12 @@ public:
         }
         vector<int> dist(n+1, INT_MAX);
         dist[k]=0;
-        queue<pair<int, int>> q;
+        priority_queue<pair<int, int>, vector<pair<int, int>>, greater<pair<int, int>>> q;
         q.push({k, 0});
 
         while(!q.empty()){
-            int node=q.front().first;
-            int dis=q.front().second;
+            int node=q.top().first;
+            int dis=q.top().second;
             q.pop();
 
             for(auto& it : adj[node]){
