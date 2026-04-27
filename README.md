@@ -46,6 +46,7 @@ Important leetcode questions with their solutions
 | [0874-walking-robot-simulation](https://github.com/Nishtha56/LeetCode/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Nishtha56/LeetCode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Nishtha56/LeetCode/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [0999-available-captures-for-rook](https://github.com/Nishtha56/LeetCode/tree/main/0999-available-captures-for-rook/) | Easy |
 | [1020-number-of-enclaves](https://github.com/Nishtha56/LeetCode/tree/main/1020-number-of-enclaves/) | Medium |
 | [1046-last-stone-weight](https://github.com/Nishtha56/LeetCode/tree/main/1046-last-stone-weight/) | Easy |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Nishtha56/LeetCode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
@@ -149,6 +150,7 @@ Important leetcode questions with their solutions
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Nishtha56/LeetCode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0419-battleships-in-a-board](https://github.com/Nishtha56/LeetCode/tree/main/0419-battleships-in-a-board/) | Medium |
 | [0463-island-perimeter](https://github.com/Nishtha56/LeetCode/tree/main/0463-island-perimeter/) | Easy |
+| [0999-available-captures-for-rook](https://github.com/Nishtha56/LeetCode/tree/main/0999-available-captures-for-rook/) | Easy |
 | [1020-number-of-enclaves](https://github.com/Nishtha56/LeetCode/tree/main/1020-number-of-enclaves/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Nishtha56/LeetCode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1222-queens-that-can-attack-the-king](https://github.com/Nishtha56/LeetCode/tree/main/1222-queens-that-can-attack-the-king/) | Medium |
@@ -476,6 +478,7 @@ Important leetcode questions with their solutions
 | [0657-robot-return-to-origin](https://github.com/Nishtha56/LeetCode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0844-backspace-string-compare](https://github.com/Nishtha56/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/Nishtha56/LeetCode/tree/main/0874-walking-robot-simulation/) | Medium |
+| [0999-available-captures-for-rook](https://github.com/Nishtha56/LeetCode/tree/main/0999-available-captures-for-rook/) | Easy |
 | [1222-queens-that-can-attack-the-king](https://github.com/Nishtha56/LeetCode/tree/main/1222-queens-that-can-attack-the-king/) | Medium |
 | [1603-design-parking-system](https://github.com/Nishtha56/LeetCode/tree/main/1603-design-parking-system/) | Easy |
 | [2069-walking-robot-simulation-ii](https://github.com/Nishtha56/LeetCode/tree/main/2069-walking-robot-simulation-ii/) | Medium |
