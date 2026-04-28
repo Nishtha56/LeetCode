@@ -59,6 +59,7 @@ Important leetcode questions with their solutions
 | [1636-sort-array-by-increasing-frequency](https://github.com/Nishtha56/LeetCode/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Nishtha56/LeetCode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Nishtha56/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Nishtha56/LeetCode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Nishtha56/LeetCode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Nishtha56/LeetCode/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Nishtha56/LeetCode/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
@@ -155,6 +156,7 @@ Important leetcode questions with their solutions
 | [1091-shortest-path-in-binary-matrix](https://github.com/Nishtha56/LeetCode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1222-queens-that-can-attack-the-king](https://github.com/Nishtha56/LeetCode/tree/main/1222-queens-that-can-attack-the-king/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Nishtha56/LeetCode/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Nishtha56/LeetCode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/Nishtha56/LeetCode/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Nishtha56/LeetCode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3546-equal-sum-grid-partition-i](https://github.com/Nishtha56/LeetCode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
@@ -185,6 +187,7 @@ Important leetcode questions with their solutions
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Nishtha56/LeetCode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Nishtha56/LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Nishtha56/LeetCode/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Nishtha56/LeetCode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/Nishtha56/LeetCode/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2785-sort-vowels-in-a-string](https://github.com/Nishtha56/LeetCode/tree/main/2785-sort-vowels-in-a-string/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Nishtha56/LeetCode/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
@@ -329,6 +332,7 @@ Important leetcode questions with their solutions
 | [1137-n-th-tribonacci-number](https://github.com/Nishtha56/LeetCode/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Nishtha56/LeetCode/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/Nishtha56/LeetCode/tree/main/1903-largest-odd-number-in-string/) | Easy |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Nishtha56/LeetCode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Nishtha56/LeetCode/tree/main/2177-find-three-consecutive-integers-that-sum-to-a-given-number/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Nishtha56/LeetCode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3099-harshad-number](https://github.com/Nishtha56/LeetCode/tree/main/3099-harshad-number/) | Easy |
