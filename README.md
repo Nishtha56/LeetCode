@@ -14,6 +14,7 @@ Important leetcode questions with their solutions
 | [0040-combination-sum-ii](https://github.com/Nishtha56/LeetCode/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/Nishtha56/LeetCode/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/Nishtha56/LeetCode/tree/main/0047-permutations-ii/) | Medium |
+| [0048-rotate-image](https://github.com/Nishtha56/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/Nishtha56/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0054-spiral-matrix](https://github.com/Nishtha56/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/Nishtha56/LeetCode/tree/main/0059-spiral-matrix-ii/) | Medium |
@@ -148,6 +149,7 @@ Important leetcode questions with their solutions
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/Nishtha56/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/Nishtha56/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/Nishtha56/LeetCode/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0130-surrounded-regions](https://github.com/Nishtha56/LeetCode/tree/main/0130-surrounded-regions/) | Medium |
@@ -321,6 +323,7 @@ Important leetcode questions with their solutions
 | [0002-add-two-numbers](https://github.com/Nishtha56/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
 | [0012-integer-to-roman](https://github.com/Nishtha56/LeetCode/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/Nishtha56/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
+| [0048-rotate-image](https://github.com/Nishtha56/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Nishtha56/LeetCode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0172-factorial-trailing-zeroes](https://github.com/Nishtha56/LeetCode/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0189-rotate-array](https://github.com/Nishtha56/LeetCode/tree/main/0189-rotate-array/) | Medium |
