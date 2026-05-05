@@ -570,6 +570,7 @@ Important leetcode questions with their solutions
 | [0513-find-bottom-left-tree-value](https://github.com/Nishtha56/LeetCode/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Nishtha56/LeetCode/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0662-maximum-width-of-binary-tree](https://github.com/Nishtha56/LeetCode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Nishtha56/LeetCode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0872-leaf-similar-trees](https://github.com/Nishtha56/LeetCode/tree/main/0872-leaf-similar-trees/) | Easy |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Nishtha56/LeetCode/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Nishtha56/LeetCode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
@@ -584,6 +585,7 @@ Important leetcode questions with their solutions
 | [0513-find-bottom-left-tree-value](https://github.com/Nishtha56/LeetCode/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Nishtha56/LeetCode/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0662-maximum-width-of-binary-tree](https://github.com/Nishtha56/LeetCode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Nishtha56/LeetCode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0872-leaf-similar-trees](https://github.com/Nishtha56/LeetCode/tree/main/0872-leaf-similar-trees/) | Easy |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Nishtha56/LeetCode/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Nishtha56/LeetCode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
@@ -626,4 +628,8 @@ Important leetcode questions with their solutions
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Nishtha56/LeetCode/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 | [1683-invalid-tweets](https://github.com/Nishtha56/LeetCode/tree/main/1683-invalid-tweets/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/Nishtha56/LeetCode/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Nishtha56/LeetCode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 <!---LeetCode Topics End-->
