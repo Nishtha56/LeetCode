@@ -41,6 +41,7 @@ Important leetcode questions with their solutions
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Nishtha56/LeetCode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0463-island-perimeter](https://github.com/Nishtha56/LeetCode/tree/main/0463-island-perimeter/) | Easy |
 | [0506-relative-ranks](https://github.com/Nishtha56/LeetCode/tree/main/0506-relative-ranks/) | Easy |
+| [0605-can-place-flowers](https://github.com/Nishtha56/LeetCode/tree/main/0605-can-place-flowers/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Nishtha56/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/Nishtha56/LeetCode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/Nishtha56/LeetCode/tree/main/0692-top-k-frequent-words/) | Medium |
@@ -392,6 +393,7 @@ Important leetcode questions with their solutions
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0605-can-place-flowers](https://github.com/Nishtha56/LeetCode/tree/main/0605-can-place-flowers/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/Nishtha56/LeetCode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Nishtha56/LeetCode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/Nishtha56/LeetCode/tree/main/2573-find-the-string-with-lcp/) | Hard |
