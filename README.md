@@ -339,6 +339,7 @@ Important leetcode questions with their solutions
 | [0268-missing-number](https://github.com/Nishtha56/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0292-nim-game](https://github.com/Nishtha56/LeetCode/tree/main/0292-nim-game/) | Easy |
 | [0319-bulb-switcher](https://github.com/Nishtha56/LeetCode/tree/main/0319-bulb-switcher/) | Medium |
+| [0371-sum-of-two-integers](https://github.com/Nishtha56/LeetCode/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/Nishtha56/LeetCode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0412-fizz-buzz](https://github.com/Nishtha56/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
 | [0445-add-two-numbers-ii](https://github.com/Nishtha56/LeetCode/tree/main/0445-add-two-numbers-ii/) | Medium |
@@ -535,6 +536,7 @@ Important leetcode questions with their solutions
 | [0090-subsets-ii](https://github.com/Nishtha56/LeetCode/tree/main/0090-subsets-ii/) | Medium |
 | [0201-bitwise-and-of-numbers-range](https://github.com/Nishtha56/LeetCode/tree/main/0201-bitwise-and-of-numbers-range/) | Medium |
 | [0268-missing-number](https://github.com/Nishtha56/LeetCode/tree/main/0268-missing-number/) | Easy |
+| [0371-sum-of-two-integers](https://github.com/Nishtha56/LeetCode/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0784-letter-case-permutation](https://github.com/Nishtha56/LeetCode/tree/main/0784-letter-case-permutation/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
