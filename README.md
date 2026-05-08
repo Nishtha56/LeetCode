@@ -26,6 +26,7 @@ Important leetcode questions with their solutions
 | [0128-longest-consecutive-sequence](https://github.com/Nishtha56/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0130-surrounded-regions](https://github.com/Nishtha56/LeetCode/tree/main/0130-surrounded-regions/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Nishtha56/LeetCode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0152-maximum-product-subarray](https://github.com/Nishtha56/LeetCode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Nishtha56/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/Nishtha56/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0228-summary-ranges](https://github.com/Nishtha56/LeetCode/tree/main/0228-summary-ranges/) | Easy |
@@ -358,6 +359,7 @@ Important leetcode questions with their solutions
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0152-maximum-product-subarray](https://github.com/Nishtha56/LeetCode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0392-is-subsequence](https://github.com/Nishtha56/LeetCode/tree/main/0392-is-subsequence/) | Easy |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Nishtha56/LeetCode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/Nishtha56/LeetCode/tree/main/1137-n-th-tribonacci-number/) | Easy |
