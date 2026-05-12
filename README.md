@@ -105,6 +105,7 @@ Important leetcode questions with their solutions
 | [0662-maximum-width-of-binary-tree](https://github.com/Nishtha56/LeetCode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0684-redundant-connection](https://github.com/Nishtha56/LeetCode/tree/main/0684-redundant-connection/) | Medium |
 | [0743-network-delay-time](https://github.com/Nishtha56/LeetCode/tree/main/0743-network-delay-time/) | Medium |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/Nishtha56/LeetCode/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Nishtha56/LeetCode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/Nishtha56/LeetCode/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0841-keys-and-rooms](https://github.com/Nishtha56/LeetCode/tree/main/0841-keys-and-rooms/) | Medium |
@@ -131,6 +132,7 @@ Important leetcode questions with their solutions
 | [0662-maximum-width-of-binary-tree](https://github.com/Nishtha56/LeetCode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0684-redundant-connection](https://github.com/Nishtha56/LeetCode/tree/main/0684-redundant-connection/) | Medium |
 | [0743-network-delay-time](https://github.com/Nishtha56/LeetCode/tree/main/0743-network-delay-time/) | Medium |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/Nishtha56/LeetCode/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Nishtha56/LeetCode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/Nishtha56/LeetCode/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0841-keys-and-rooms](https://github.com/Nishtha56/LeetCode/tree/main/0841-keys-and-rooms/) | Medium |
@@ -594,6 +596,7 @@ Important leetcode questions with their solutions
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Nishtha56/LeetCode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/Nishtha56/LeetCode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Nishtha56/LeetCode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/Nishtha56/LeetCode/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0872-leaf-similar-trees](https://github.com/Nishtha56/LeetCode/tree/main/0872-leaf-similar-trees/) | Easy |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Nishtha56/LeetCode/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Nishtha56/LeetCode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
@@ -612,6 +615,7 @@ Important leetcode questions with their solutions
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Nishtha56/LeetCode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/Nishtha56/LeetCode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Nishtha56/LeetCode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/Nishtha56/LeetCode/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0872-leaf-similar-trees](https://github.com/Nishtha56/LeetCode/tree/main/0872-leaf-similar-trees/) | Easy |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Nishtha56/LeetCode/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Nishtha56/LeetCode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
@@ -661,4 +665,5 @@ Important leetcode questions with their solutions
 | [0501-find-mode-in-binary-search-tree](https://github.com/Nishtha56/LeetCode/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Nishtha56/LeetCode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Nishtha56/LeetCode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/Nishtha56/LeetCode/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 <!---LeetCode Topics End-->
