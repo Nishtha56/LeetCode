@@ -1,25 +1,20 @@
 class Solution {
 public:
-    void subset(int ind, vector<int> &nums, vector<vector<int>> &ans, vector<int>&help){
-        int n=nums.size();
-        if(ind>=n){
-            ans.push_back({help});
+    void helper(vector<int>& nums, int i, vector<vector<int>> &ans, vector<int> &res){
+        if(i==nums.size()){
+            ans.push_back(res);
             return;
         }
+        res.push_back(nums[i]);
+        helper(nums, i+1, ans, res);
 
-        //take
-        help.push_back(nums[ind]);
-        subset(ind+1, nums, ans, help);
-
-        //not take
-        help.pop_back();
-        subset(ind+1, nums, ans, help);
+        res.pop_back();
+        helper(nums, i+1, ans, res);
     }
-
     vector<vector<int>> subsets(vector<int>& nums) {
         vector<vector<int>> ans;
-        vector<int> help;
-        subset(0, nums, ans, help);
+        vector<int> res;
+        helper(nums, 0, ans, res);
         return ans;
     }
 };
