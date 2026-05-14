@@ -98,6 +98,7 @@ Important leetcode questions with their solutions
 | [0130-surrounded-regions](https://github.com/Nishtha56/LeetCode/tree/main/0130-surrounded-regions/) | Medium |
 | [0207-course-schedule](https://github.com/Nishtha56/LeetCode/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/Nishtha56/LeetCode/tree/main/0210-course-schedule-ii/) | Medium |
+| [0404-sum-of-left-leaves](https://github.com/Nishtha56/LeetCode/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0419-battleships-in-a-board](https://github.com/Nishtha56/LeetCode/tree/main/0419-battleships-in-a-board/) | Medium |
 | [0463-island-perimeter](https://github.com/Nishtha56/LeetCode/tree/main/0463-island-perimeter/) | Easy |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Nishtha56/LeetCode/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
@@ -127,6 +128,7 @@ Important leetcode questions with their solutions
 | [0130-surrounded-regions](https://github.com/Nishtha56/LeetCode/tree/main/0130-surrounded-regions/) | Medium |
 | [0207-course-schedule](https://github.com/Nishtha56/LeetCode/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/Nishtha56/LeetCode/tree/main/0210-course-schedule-ii/) | Medium |
+| [0404-sum-of-left-leaves](https://github.com/Nishtha56/LeetCode/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0463-island-perimeter](https://github.com/Nishtha56/LeetCode/tree/main/0463-island-perimeter/) | Easy |
 | [0513-find-bottom-left-tree-value](https://github.com/Nishtha56/LeetCode/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Nishtha56/LeetCode/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
@@ -595,6 +597,7 @@ Important leetcode questions with their solutions
 | [0101-symmetric-tree](https://github.com/Nishtha56/LeetCode/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Nishtha56/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Nishtha56/LeetCode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0404-sum-of-left-leaves](https://github.com/Nishtha56/LeetCode/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Nishtha56/LeetCode/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0513-find-bottom-left-tree-value](https://github.com/Nishtha56/LeetCode/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Nishtha56/LeetCode/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
@@ -614,6 +617,7 @@ Important leetcode questions with their solutions
 | [0101-symmetric-tree](https://github.com/Nishtha56/LeetCode/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Nishtha56/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Nishtha56/LeetCode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0404-sum-of-left-leaves](https://github.com/Nishtha56/LeetCode/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Nishtha56/LeetCode/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0513-find-bottom-left-tree-value](https://github.com/Nishtha56/LeetCode/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Nishtha56/LeetCode/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
