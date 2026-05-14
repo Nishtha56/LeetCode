@@ -74,6 +74,7 @@ Important leetcode questions with their solutions
 | [2463-minimum-total-distance-traveled](https://github.com/Nishtha56/LeetCode/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2573-find-the-string-with-lcp](https://github.com/Nishtha56/LeetCode/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Nishtha56/LeetCode/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
+| [2784-check-if-array-is-good](https://github.com/Nishtha56/LeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2944-minimum-number-of-coins-for-fruits](https://github.com/Nishtha56/LeetCode/tree/main/2944-minimum-number-of-coins-for-fruits/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Nishtha56/LeetCode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Nishtha56/LeetCode/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
@@ -214,6 +215,7 @@ Important leetcode questions with their solutions
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Nishtha56/LeetCode/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Nishtha56/LeetCode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/Nishtha56/LeetCode/tree/main/2463-minimum-total-distance-traveled/) | Hard |
+| [2784-check-if-array-is-good](https://github.com/Nishtha56/LeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2785-sort-vowels-in-a-string](https://github.com/Nishtha56/LeetCode/tree/main/2785-sort-vowels-in-a-string/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Nishtha56/LeetCode/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Nishtha56/LeetCode/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
@@ -321,6 +323,7 @@ Important leetcode questions with their solutions
 | [1980-find-unique-binary-string](https://github.com/Nishtha56/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Nishtha56/LeetCode/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Nishtha56/LeetCode/tree/main/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
+| [2784-check-if-array-is-good](https://github.com/Nishtha56/LeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Nishtha56/LeetCode/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3488-closest-equal-element-queries](https://github.com/Nishtha56/LeetCode/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Nishtha56/LeetCode/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
