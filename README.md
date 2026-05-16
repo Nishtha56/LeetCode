@@ -17,6 +17,7 @@ Important leetcode questions with their solutions
 | [0048-rotate-image](https://github.com/Nishtha56/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/Nishtha56/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0054-spiral-matrix](https://github.com/Nishtha56/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
+| [0056-merge-intervals](https://github.com/Nishtha56/LeetCode/tree/main/0056-merge-intervals/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/Nishtha56/LeetCode/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0075-sort-colors](https://github.com/Nishtha56/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0078-subsets](https://github.com/Nishtha56/LeetCode/tree/main/0078-subsets/) | Medium |
@@ -194,6 +195,7 @@ Important leetcode questions with their solutions
 | [0018-4sum](https://github.com/Nishtha56/LeetCode/tree/main/0018-4sum/) | Medium |
 | [0047-permutations-ii](https://github.com/Nishtha56/LeetCode/tree/main/0047-permutations-ii/) | Medium |
 | [0049-group-anagrams](https://github.com/Nishtha56/LeetCode/tree/main/0049-group-anagrams/) | Medium |
+| [0056-merge-intervals](https://github.com/Nishtha56/LeetCode/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/Nishtha56/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Nishtha56/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0229-majority-element-ii](https://github.com/Nishtha56/LeetCode/tree/main/0229-majority-element-ii/) | Medium |
