@@ -59,6 +59,7 @@ Important leetcode questions with their solutions
 | [1020-number-of-enclaves](https://github.com/Nishtha56/LeetCode/tree/main/1020-number-of-enclaves/) | Medium |
 | [1046-last-stone-weight](https://github.com/Nishtha56/LeetCode/tree/main/1046-last-stone-weight/) | Easy |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Nishtha56/LeetCode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
+| [1200-minimum-absolute-difference](https://github.com/Nishtha56/LeetCode/tree/main/1200-minimum-absolute-difference/) | Easy |
 | [1222-queens-that-can-attack-the-king](https://github.com/Nishtha56/LeetCode/tree/main/1222-queens-that-can-attack-the-king/) | Medium |
 | [1306-jump-game-iii](https://github.com/Nishtha56/LeetCode/tree/main/1306-jump-game-iii/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Nishtha56/LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -219,6 +220,7 @@ Important leetcode questions with their solutions
 | [0692-top-k-frequent-words](https://github.com/Nishtha56/LeetCode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Nishtha56/LeetCode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Nishtha56/LeetCode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [1200-minimum-absolute-difference](https://github.com/Nishtha56/LeetCode/tree/main/1200-minimum-absolute-difference/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Nishtha56/LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Nishtha56/LeetCode/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Nishtha56/LeetCode/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
