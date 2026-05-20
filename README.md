@@ -61,6 +61,7 @@ Important leetcode questions with their solutions
 | [1046-last-stone-weight](https://github.com/Nishtha56/LeetCode/tree/main/1046-last-stone-weight/) | Easy |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Nishtha56/LeetCode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1200-minimum-absolute-difference](https://github.com/Nishtha56/LeetCode/tree/main/1200-minimum-absolute-difference/) | Easy |
+| [1207-unique-number-of-occurrences](https://github.com/Nishtha56/LeetCode/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1222-queens-that-can-attack-the-king](https://github.com/Nishtha56/LeetCode/tree/main/1222-queens-that-can-attack-the-king/) | Medium |
 | [1306-jump-game-iii](https://github.com/Nishtha56/LeetCode/tree/main/1306-jump-game-iii/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Nishtha56/LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -331,6 +332,7 @@ Important leetcode questions with their solutions
 | [0874-walking-robot-simulation](https://github.com/Nishtha56/LeetCode/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Nishtha56/LeetCode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Nishtha56/LeetCode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [1207-unique-number-of-occurrences](https://github.com/Nishtha56/LeetCode/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Nishtha56/LeetCode/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/Nishtha56/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Nishtha56/LeetCode/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
