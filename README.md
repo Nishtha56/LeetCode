@@ -82,6 +82,7 @@ Important leetcode questions with their solutions
 | [2463-minimum-total-distance-traveled](https://github.com/Nishtha56/LeetCode/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2540-minimum-common-value](https://github.com/Nishtha56/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/Nishtha56/LeetCode/tree/main/2573-find-the-string-with-lcp/) | Hard |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Nishtha56/LeetCode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Nishtha56/LeetCode/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/Nishtha56/LeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2944-minimum-number-of-coins-for-fruits](https://github.com/Nishtha56/LeetCode/tree/main/2944-minimum-number-of-coins-for-fruits/) | Medium |
@@ -339,6 +340,7 @@ Important leetcode questions with their solutions
 | [2085-count-common-words-with-one-occurrence](https://github.com/Nishtha56/LeetCode/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Nishtha56/LeetCode/tree/main/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
 | [2540-minimum-common-value](https://github.com/Nishtha56/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Nishtha56/LeetCode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/Nishtha56/LeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Nishtha56/LeetCode/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3488-closest-equal-element-queries](https://github.com/Nishtha56/LeetCode/tree/main/3488-closest-equal-element-queries/) | Medium |
@@ -581,6 +583,7 @@ Important leetcode questions with their solutions
 | [0268-missing-number](https://github.com/Nishtha56/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/Nishtha56/LeetCode/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0784-letter-case-permutation](https://github.com/Nishtha56/LeetCode/tree/main/0784-letter-case-permutation/) | Medium |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Nishtha56/LeetCode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
