@@ -65,6 +65,7 @@ Important leetcode questions with their solutions
 | [1207-unique-number-of-occurrences](https://github.com/Nishtha56/LeetCode/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1222-queens-that-can-attack-the-king](https://github.com/Nishtha56/LeetCode/tree/main/1222-queens-that-can-attack-the-king/) | Medium |
 | [1306-jump-game-iii](https://github.com/Nishtha56/LeetCode/tree/main/1306-jump-game-iii/) | Medium |
+| [1340-jump-game-v](https://github.com/Nishtha56/LeetCode/tree/main/1340-jump-game-v/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Nishtha56/LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1472-design-browser-history](https://github.com/Nishtha56/LeetCode/tree/main/1472-design-browser-history/) | Medium |
 | [1514-path-with-maximum-probability](https://github.com/Nishtha56/LeetCode/tree/main/1514-path-with-maximum-probability/) | Medium |
@@ -228,6 +229,7 @@ Important leetcode questions with their solutions
 | [0973-k-closest-points-to-origin](https://github.com/Nishtha56/LeetCode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Nishtha56/LeetCode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1200-minimum-absolute-difference](https://github.com/Nishtha56/LeetCode/tree/main/1200-minimum-absolute-difference/) | Easy |
+| [1340-jump-game-v](https://github.com/Nishtha56/LeetCode/tree/main/1340-jump-game-v/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Nishtha56/LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Nishtha56/LeetCode/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Nishtha56/LeetCode/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
@@ -407,6 +409,7 @@ Important leetcode questions with their solutions
 | [1137-n-th-tribonacci-number](https://github.com/Nishtha56/LeetCode/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Nishtha56/LeetCode/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Nishtha56/LeetCode/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
+| [1340-jump-game-v](https://github.com/Nishtha56/LeetCode/tree/main/1340-jump-game-v/) | Hard |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Nishtha56/LeetCode/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/Nishtha56/LeetCode/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2573-find-the-string-with-lcp](https://github.com/Nishtha56/LeetCode/tree/main/2573-find-the-string-with-lcp/) | Hard |
