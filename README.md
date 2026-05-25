@@ -137,6 +137,7 @@ Important leetcode questions with their solutions
 | [1306-jump-game-iii](https://github.com/Nishtha56/LeetCode/tree/main/1306-jump-game-iii/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Nishtha56/LeetCode/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/Nishtha56/LeetCode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
+| [2685-count-the-number-of-complete-components](https://github.com/Nishtha56/LeetCode/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -168,6 +169,7 @@ Important leetcode questions with their solutions
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Nishtha56/LeetCode/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1609-even-odd-tree](https://github.com/Nishtha56/LeetCode/tree/main/1609-even-odd-tree/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/Nishtha56/LeetCode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
+| [2685-count-the-number-of-complete-components](https://github.com/Nishtha56/LeetCode/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -181,6 +183,7 @@ Important leetcode questions with their solutions
 | [1584-min-cost-to-connect-all-points](https://github.com/Nishtha56/LeetCode/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/Nishtha56/LeetCode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/Nishtha56/LeetCode/tree/main/2573-find-the-string-with-lcp/) | Hard |
+| [2685-count-the-number-of-complete-components](https://github.com/Nishtha56/LeetCode/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -314,6 +317,7 @@ Important leetcode questions with their solutions
 | [1584-min-cost-to-connect-all-points](https://github.com/Nishtha56/LeetCode/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [1791-find-center-of-star-graph](https://github.com/Nishtha56/LeetCode/tree/main/1791-find-center-of-star-graph/) | Easy |
 | [1971-find-if-path-exists-in-graph](https://github.com/Nishtha56/LeetCode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
+| [2685-count-the-number-of-complete-components](https://github.com/Nishtha56/LeetCode/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
