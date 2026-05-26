@@ -86,6 +86,7 @@ Important leetcode questions with their solutions
 | [2463-minimum-total-distance-traveled](https://github.com/Nishtha56/LeetCode/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2540-minimum-common-value](https://github.com/Nishtha56/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/Nishtha56/LeetCode/tree/main/2573-find-the-string-with-lcp/) | Hard |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Nishtha56/LeetCode/tree/main/2586-count-the-number-of-vowel-strings-in-range/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Nishtha56/LeetCode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Nishtha56/LeetCode/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/Nishtha56/LeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
@@ -296,6 +297,7 @@ Important leetcode questions with their solutions
 | [2390-removing-stars-from-a-string](https://github.com/Nishtha56/LeetCode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Nishtha56/LeetCode/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/Nishtha56/LeetCode/tree/main/2573-find-the-string-with-lcp/) | Hard |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Nishtha56/LeetCode/tree/main/2586-count-the-number-of-vowel-strings-in-range/) | Easy |
 | [2785-sort-vowels-in-a-string](https://github.com/Nishtha56/LeetCode/tree/main/2785-sort-vowels-in-a-string/) | Medium |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Nishtha56/LeetCode/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Nishtha56/LeetCode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
@@ -486,6 +488,7 @@ Important leetcode questions with their solutions
 | [0692-top-k-frequent-words](https://github.com/Nishtha56/LeetCode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [1603-design-parking-system](https://github.com/Nishtha56/LeetCode/tree/main/1603-design-parking-system/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Nishtha56/LeetCode/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Nishtha56/LeetCode/tree/main/2586-count-the-number-of-vowel-strings-in-range/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Nishtha56/LeetCode/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 ## Quickselect
 | Problem Name | Difficulty |
