@@ -82,6 +82,7 @@ Important leetcode questions with their solutions
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Nishtha56/LeetCode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Nishtha56/LeetCode/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Nishtha56/LeetCode/tree/main/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
+| [2421-number-of-good-paths](https://github.com/Nishtha56/LeetCode/tree/main/2421-number-of-good-paths/) | Hard |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Nishtha56/LeetCode/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/Nishtha56/LeetCode/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2540-minimum-common-value](https://github.com/Nishtha56/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
@@ -183,6 +184,7 @@ Important leetcode questions with their solutions
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Nishtha56/LeetCode/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1584-min-cost-to-connect-all-points](https://github.com/Nishtha56/LeetCode/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/Nishtha56/LeetCode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
+| [2421-number-of-good-paths](https://github.com/Nishtha56/LeetCode/tree/main/2421-number-of-good-paths/) | Hard |
 | [2573-find-the-string-with-lcp](https://github.com/Nishtha56/LeetCode/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2685-count-the-number-of-complete-components](https://github.com/Nishtha56/LeetCode/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 ## Matrix
@@ -240,6 +242,7 @@ Important leetcode questions with their solutions
 | [1636-sort-array-by-increasing-frequency](https://github.com/Nishtha56/LeetCode/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Nishtha56/LeetCode/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Nishtha56/LeetCode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
+| [2421-number-of-good-paths](https://github.com/Nishtha56/LeetCode/tree/main/2421-number-of-good-paths/) | Hard |
 | [2463-minimum-total-distance-traveled](https://github.com/Nishtha56/LeetCode/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2784-check-if-array-is-good](https://github.com/Nishtha56/LeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2785-sort-vowels-in-a-string](https://github.com/Nishtha56/LeetCode/tree/main/2785-sort-vowels-in-a-string/) | Medium |
@@ -319,6 +322,7 @@ Important leetcode questions with their solutions
 | [1584-min-cost-to-connect-all-points](https://github.com/Nishtha56/LeetCode/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [1791-find-center-of-star-graph](https://github.com/Nishtha56/LeetCode/tree/main/1791-find-center-of-star-graph/) | Easy |
 | [1971-find-if-path-exists-in-graph](https://github.com/Nishtha56/LeetCode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
+| [2421-number-of-good-paths](https://github.com/Nishtha56/LeetCode/tree/main/2421-number-of-good-paths/) | Hard |
 | [2685-count-the-number-of-complete-components](https://github.com/Nishtha56/LeetCode/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
@@ -355,6 +359,7 @@ Important leetcode questions with their solutions
 | [1980-find-unique-binary-string](https://github.com/Nishtha56/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Nishtha56/LeetCode/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Nishtha56/LeetCode/tree/main/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
+| [2421-number-of-good-paths](https://github.com/Nishtha56/LeetCode/tree/main/2421-number-of-good-paths/) | Hard |
 | [2540-minimum-common-value](https://github.com/Nishtha56/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Nishtha56/LeetCode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/Nishtha56/LeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
@@ -661,6 +666,7 @@ Important leetcode questions with their solutions
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Nishtha56/LeetCode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [0993-cousins-in-binary-tree](https://github.com/Nishtha56/LeetCode/tree/main/0993-cousins-in-binary-tree/) | Easy |
 | [1609-even-odd-tree](https://github.com/Nishtha56/LeetCode/tree/main/1609-even-odd-tree/) | Medium |
+| [2421-number-of-good-paths](https://github.com/Nishtha56/LeetCode/tree/main/2421-number-of-good-paths/) | Hard |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
