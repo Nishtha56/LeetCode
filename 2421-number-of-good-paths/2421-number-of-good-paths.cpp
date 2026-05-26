@@ -78,7 +78,7 @@ public:
                 }
             }
 
-            unordered_map<int,int> cnt;
+            map<int,int> cnt;
             for(int node : it.second){
                 int p=dsu.findParent(node);
                 cnt[p]++;
