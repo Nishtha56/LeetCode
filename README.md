@@ -305,6 +305,7 @@ Important leetcode questions with their solutions
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Nishtha56/LeetCode/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Nishtha56/LeetCode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Nishtha56/LeetCode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/Nishtha56/LeetCode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -367,6 +368,7 @@ Important leetcode questions with their solutions
 | [3005-count-elements-with-maximum-frequency](https://github.com/Nishtha56/LeetCode/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Nishtha56/LeetCode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Nishtha56/LeetCode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/Nishtha56/LeetCode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3488-closest-equal-element-queries](https://github.com/Nishtha56/LeetCode/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Nishtha56/LeetCode/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Nishtha56/LeetCode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
