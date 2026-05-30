@@ -96,6 +96,7 @@ Important leetcode questions with their solutions
 | [3005-count-elements-with-maximum-frequency](https://github.com/Nishtha56/LeetCode/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Nishtha56/LeetCode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3093-longest-common-suffix-queries](https://github.com/Nishtha56/LeetCode/tree/main/3093-longest-common-suffix-queries/) | Hard |
+| [3161-block-placement-queries](https://github.com/Nishtha56/LeetCode/tree/main/3161-block-placement-queries/) | Hard |
 | [3225-maximum-score-from-grid-operations](https://github.com/Nishtha56/LeetCode/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Nishtha56/LeetCode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Nishtha56/LeetCode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
@@ -464,6 +465,7 @@ Important leetcode questions with their solutions
 | [0852-peak-index-in-a-mountain-array](https://github.com/Nishtha56/LeetCode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Nishtha56/LeetCode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2540-minimum-common-value](https://github.com/Nishtha56/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
+| [3161-block-placement-queries](https://github.com/Nishtha56/LeetCode/tree/main/3161-block-placement-queries/) | Hard |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Nishtha56/LeetCode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Nishtha56/LeetCode/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3488-closest-equal-element-queries](https://github.com/Nishtha56/LeetCode/tree/main/3488-closest-equal-element-queries/) | Medium |
@@ -744,4 +746,12 @@ Important leetcode questions with their solutions
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Nishtha56/LeetCode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Nishtha56/LeetCode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Nishtha56/LeetCode/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
+## Binary Indexed Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3161-block-placement-queries](https://github.com/Nishtha56/LeetCode/tree/main/3161-block-placement-queries/) | Hard |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3161-block-placement-queries](https://github.com/Nishtha56/LeetCode/tree/main/3161-block-placement-queries/) | Hard |
 <!---LeetCode Topics End-->
