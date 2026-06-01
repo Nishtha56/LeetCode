@@ -298,6 +298,7 @@ Important leetcode questions with their solutions
 | [0990-satisfiability-of-equality-equations](https://github.com/Nishtha56/LeetCode/tree/main/0990-satisfiability-of-equality-equations/) | Medium |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Nishtha56/LeetCode/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Nishtha56/LeetCode/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
+| [1871-jump-game-vii](https://github.com/Nishtha56/LeetCode/tree/main/1871-jump-game-vii/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/Nishtha56/LeetCode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/Nishtha56/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Nishtha56/LeetCode/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
@@ -437,6 +438,7 @@ Important leetcode questions with their solutions
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Nishtha56/LeetCode/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
 | [1340-jump-game-v](https://github.com/Nishtha56/LeetCode/tree/main/1340-jump-game-v/) | Hard |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Nishtha56/LeetCode/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
+| [1871-jump-game-vii](https://github.com/Nishtha56/LeetCode/tree/main/1871-jump-game-vii/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/Nishtha56/LeetCode/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2573-find-the-string-with-lcp](https://github.com/Nishtha56/LeetCode/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Nishtha56/LeetCode/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
@@ -450,6 +452,7 @@ Important leetcode questions with their solutions
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/Nishtha56/LeetCode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/Nishtha56/LeetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
+| [1871-jump-game-vii](https://github.com/Nishtha56/LeetCode/tree/main/1871-jump-game-vii/) | Medium |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Nishtha56/LeetCode/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
 | [3225-maximum-score-from-grid-operations](https://github.com/Nishtha56/LeetCode/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3546-equal-sum-grid-partition-i](https://github.com/Nishtha56/LeetCode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
@@ -640,6 +643,7 @@ Important leetcode questions with their solutions
 | ------- | ------- |
 | [0658-find-k-closest-elements](https://github.com/Nishtha56/LeetCode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Nishtha56/LeetCode/tree/main/0904-fruit-into-baskets/) | Medium |
+| [1871-jump-game-vii](https://github.com/Nishtha56/LeetCode/tree/main/1871-jump-game-vii/) | Medium |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
