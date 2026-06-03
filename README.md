@@ -34,6 +34,7 @@ Important leetcode questions with their solutions
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Nishtha56/LeetCode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Nishtha56/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/Nishtha56/LeetCode/tree/main/0189-rotate-array/) | Medium |
+| [0200-number-of-islands](https://github.com/Nishtha56/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Nishtha56/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0228-summary-ranges](https://github.com/Nishtha56/LeetCode/tree/main/0228-summary-ranges/) | Easy |
 | [0229-majority-element-ii](https://github.com/Nishtha56/LeetCode/tree/main/0229-majority-element-ii/) | Medium |
@@ -119,6 +120,7 @@ Important leetcode questions with their solutions
 | [0101-symmetric-tree](https://github.com/Nishtha56/LeetCode/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Nishtha56/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0130-surrounded-regions](https://github.com/Nishtha56/LeetCode/tree/main/0130-surrounded-regions/) | Medium |
+| [0200-number-of-islands](https://github.com/Nishtha56/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/Nishtha56/LeetCode/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/Nishtha56/LeetCode/tree/main/0210-course-schedule-ii/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Nishtha56/LeetCode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
@@ -152,6 +154,7 @@ Important leetcode questions with their solutions
 | [0101-symmetric-tree](https://github.com/Nishtha56/LeetCode/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Nishtha56/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0130-surrounded-regions](https://github.com/Nishtha56/LeetCode/tree/main/0130-surrounded-regions/) | Medium |
+| [0200-number-of-islands](https://github.com/Nishtha56/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/Nishtha56/LeetCode/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/Nishtha56/LeetCode/tree/main/0210-course-schedule-ii/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/Nishtha56/LeetCode/tree/main/0404-sum-of-left-leaves/) | Easy |
@@ -182,6 +185,7 @@ Important leetcode questions with their solutions
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Nishtha56/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0130-surrounded-regions](https://github.com/Nishtha56/LeetCode/tree/main/0130-surrounded-regions/) | Medium |
+| [0200-number-of-islands](https://github.com/Nishtha56/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0684-redundant-connection](https://github.com/Nishtha56/LeetCode/tree/main/0684-redundant-connection/) | Medium |
 | [0886-possible-bipartition](https://github.com/Nishtha56/LeetCode/tree/main/0886-possible-bipartition/) | Medium |
 | [0990-satisfiability-of-equality-equations](https://github.com/Nishtha56/LeetCode/tree/main/0990-satisfiability-of-equality-equations/) | Medium |
@@ -199,6 +203,7 @@ Important leetcode questions with their solutions
 | [0054-spiral-matrix](https://github.com/Nishtha56/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/Nishtha56/LeetCode/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0130-surrounded-regions](https://github.com/Nishtha56/LeetCode/tree/main/0130-surrounded-regions/) | Medium |
+| [0200-number-of-islands](https://github.com/Nishtha56/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Nishtha56/LeetCode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0419-battleships-in-a-board](https://github.com/Nishtha56/LeetCode/tree/main/0419-battleships-in-a-board/) | Medium |
 | [0463-island-perimeter](https://github.com/Nishtha56/LeetCode/tree/main/0463-island-perimeter/) | Easy |
