@@ -86,6 +86,7 @@ Important leetcode questions with their solutions
 | [2085-count-common-words-with-one-occurrence](https://github.com/Nishtha56/LeetCode/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2126-destroying-asteroids](https://github.com/Nishtha56/LeetCode/tree/main/2126-destroying-asteroids/) | Medium |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Nishtha56/LeetCode/tree/main/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Nishtha56/LeetCode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2421-number-of-good-paths](https://github.com/Nishtha56/LeetCode/tree/main/2421-number-of-good-paths/) | Hard |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Nishtha56/LeetCode/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/Nishtha56/LeetCode/tree/main/2463-minimum-total-distance-traveled/) | Hard |
@@ -384,6 +385,7 @@ Important leetcode questions with their solutions
 | [1980-find-unique-binary-string](https://github.com/Nishtha56/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Nishtha56/LeetCode/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Nishtha56/LeetCode/tree/main/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Nishtha56/LeetCode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2421-number-of-good-paths](https://github.com/Nishtha56/LeetCode/tree/main/2421-number-of-good-paths/) | Hard |
 | [2540-minimum-common-value](https://github.com/Nishtha56/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Nishtha56/LeetCode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
@@ -711,6 +713,7 @@ Important leetcode questions with their solutions
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Nishtha56/LeetCode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [0993-cousins-in-binary-tree](https://github.com/Nishtha56/LeetCode/tree/main/0993-cousins-in-binary-tree/) | Easy |
 | [1609-even-odd-tree](https://github.com/Nishtha56/LeetCode/tree/main/1609-even-odd-tree/) | Medium |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Nishtha56/LeetCode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2421-number-of-good-paths](https://github.com/Nishtha56/LeetCode/tree/main/2421-number-of-good-paths/) | Hard |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -733,6 +736,7 @@ Important leetcode questions with their solutions
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Nishtha56/LeetCode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [0993-cousins-in-binary-tree](https://github.com/Nishtha56/LeetCode/tree/main/0993-cousins-in-binary-tree/) | Easy |
 | [1609-even-odd-tree](https://github.com/Nishtha56/LeetCode/tree/main/1609-even-odd-tree/) | Medium |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Nishtha56/LeetCode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 ## Brainteaser
 | Problem Name | Difficulty |
 | ------- | ------- |
