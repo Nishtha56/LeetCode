@@ -120,6 +120,7 @@ Important leetcode questions with their solutions
 | [3742-maximum-path-score-in-a-grid](https://github.com/Nishtha56/LeetCode/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Nishtha56/LeetCode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3819-rotate-non-negative-elements](https://github.com/Nishtha56/LeetCode/tree/main/3819-rotate-non-negative-elements/) | Medium |
+| [3838-weighted-word-mapping](https://github.com/Nishtha56/LeetCode/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/Nishtha56/LeetCode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -336,6 +337,7 @@ Important leetcode questions with their solutions
 | [3093-longest-common-suffix-queries](https://github.com/Nishtha56/LeetCode/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Nishtha56/LeetCode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Nishtha56/LeetCode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
+| [3838-weighted-word-mapping](https://github.com/Nishtha56/LeetCode/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -643,6 +645,7 @@ Important leetcode questions with their solutions
 | [2390-removing-stars-from-a-string](https://github.com/Nishtha56/LeetCode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Nishtha56/LeetCode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3819-rotate-non-negative-elements](https://github.com/Nishtha56/LeetCode/tree/main/3819-rotate-non-negative-elements/) | Medium |
+| [3838-weighted-word-mapping](https://github.com/Nishtha56/LeetCode/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
