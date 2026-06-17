@@ -338,6 +338,7 @@ Important leetcode questions with their solutions
 | [3120-count-the-number-of-special-characters-i](https://github.com/Nishtha56/LeetCode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Nishtha56/LeetCode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3612-process-string-with-special-operations-i](https://github.com/Nishtha56/LeetCode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
+| [3614-process-string-with-special-operations-ii](https://github.com/Nishtha56/LeetCode/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 | [3838-weighted-word-mapping](https://github.com/Nishtha56/LeetCode/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Graph Theory
 | Problem Name | Difficulty |
@@ -646,6 +647,7 @@ Important leetcode questions with their solutions
 | [2390-removing-stars-from-a-string](https://github.com/Nishtha56/LeetCode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Nishtha56/LeetCode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/Nishtha56/LeetCode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
+| [3614-process-string-with-special-operations-ii](https://github.com/Nishtha56/LeetCode/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 | [3819-rotate-non-negative-elements](https://github.com/Nishtha56/LeetCode/tree/main/3819-rotate-non-negative-elements/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/Nishtha56/LeetCode/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Stack
