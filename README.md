@@ -60,6 +60,7 @@ Important leetcode questions with their solutions
 | [0852-peak-index-in-a-mountain-array](https://github.com/Nishtha56/LeetCode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/Nishtha56/LeetCode/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Nishtha56/LeetCode/tree/main/0904-fruit-into-baskets/) | Medium |
+| [0918-maximum-sum-circular-subarray](https://github.com/Nishtha56/LeetCode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Nishtha56/LeetCode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0990-satisfiability-of-equality-equations](https://github.com/Nishtha56/LeetCode/tree/main/0990-satisfiability-of-equality-equations/) | Medium |
 | [0994-rotting-oranges](https://github.com/Nishtha56/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
@@ -472,6 +473,7 @@ Important leetcode questions with their solutions
 | [0416-partition-equal-subset-sum](https://github.com/Nishtha56/LeetCode/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/Nishtha56/LeetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Nishtha56/LeetCode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+| [0918-maximum-sum-circular-subarray](https://github.com/Nishtha56/LeetCode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/Nishtha56/LeetCode/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Nishtha56/LeetCode/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Nishtha56/LeetCode/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
@@ -548,6 +550,7 @@ Important leetcode questions with their solutions
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Nishtha56/LeetCode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/Nishtha56/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Nishtha56/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0918-maximum-sum-circular-subarray](https://github.com/Nishtha56/LeetCode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Nishtha56/LeetCode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
@@ -718,10 +721,12 @@ Important leetcode questions with their solutions
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/Nishtha56/LeetCode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [2944-minimum-number-of-coins-for-fruits](https://github.com/Nishtha56/LeetCode/tree/main/2944-minimum-number-of-coins-for-fruits/) | Medium |
 ## Monotonic Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/Nishtha56/LeetCode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [2944-minimum-number-of-coins-for-fruits](https://github.com/Nishtha56/LeetCode/tree/main/2944-minimum-number-of-coins-for-fruits/) | Medium |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
