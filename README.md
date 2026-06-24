@@ -54,6 +54,7 @@ Important leetcode questions with their solutions
 | [0463-island-perimeter](https://github.com/Nishtha56/LeetCode/tree/main/0463-island-perimeter/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Nishtha56/LeetCode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0506-relative-ranks](https://github.com/Nishtha56/LeetCode/tree/main/0506-relative-ranks/) | Easy |
+| [0566-reshape-the-matrix](https://github.com/Nishtha56/LeetCode/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0605-can-place-flowers](https://github.com/Nishtha56/LeetCode/tree/main/0605-can-place-flowers/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Nishtha56/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/Nishtha56/LeetCode/tree/main/0658-find-k-closest-elements/) | Medium |
@@ -226,6 +227,7 @@ Important leetcode questions with their solutions
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Nishtha56/LeetCode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0419-battleships-in-a-board](https://github.com/Nishtha56/LeetCode/tree/main/0419-battleships-in-a-board/) | Medium |
 | [0463-island-perimeter](https://github.com/Nishtha56/LeetCode/tree/main/0463-island-perimeter/) | Easy |
+| [0566-reshape-the-matrix](https://github.com/Nishtha56/LeetCode/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0994-rotting-oranges](https://github.com/Nishtha56/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
 | [0999-available-captures-for-rook](https://github.com/Nishtha56/LeetCode/tree/main/0999-available-captures-for-rook/) | Easy |
 | [1020-number-of-enclaves](https://github.com/Nishtha56/LeetCode/tree/main/1020-number-of-enclaves/) | Medium |
@@ -657,6 +659,7 @@ Important leetcode questions with their solutions
 | [0059-spiral-matrix-ii](https://github.com/Nishtha56/LeetCode/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0258-add-digits](https://github.com/Nishtha56/LeetCode/tree/main/0258-add-digits/) | Easy |
 | [0412-fizz-buzz](https://github.com/Nishtha56/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
+| [0566-reshape-the-matrix](https://github.com/Nishtha56/LeetCode/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/Nishtha56/LeetCode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0844-backspace-string-compare](https://github.com/Nishtha56/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/Nishtha56/LeetCode/tree/main/0874-walking-robot-simulation/) | Medium |
