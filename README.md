@@ -90,6 +90,7 @@ Important leetcode questions with their solutions
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Nishtha56/LeetCode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Nishtha56/LeetCode/tree/main/1893-check-if-all-the-integers-in-a-range-are-covered/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/Nishtha56/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
+| [1991-find-the-middle-index-in-array](https://github.com/Nishtha56/LeetCode/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Nishtha56/LeetCode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Nishtha56/LeetCode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Nishtha56/LeetCode/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
@@ -508,6 +509,7 @@ Important leetcode questions with their solutions
 | [1732-find-the-highest-altitude](https://github.com/Nishtha56/LeetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1871-jump-game-vii](https://github.com/Nishtha56/LeetCode/tree/main/1871-jump-game-vii/) | Medium |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Nishtha56/LeetCode/tree/main/1893-check-if-all-the-integers-in-a-range-are-covered/) | Easy |
+| [1991-find-the-middle-index-in-array](https://github.com/Nishtha56/LeetCode/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/Nishtha56/LeetCode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Nishtha56/LeetCode/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
 | [3225-maximum-score-from-grid-operations](https://github.com/Nishtha56/LeetCode/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
