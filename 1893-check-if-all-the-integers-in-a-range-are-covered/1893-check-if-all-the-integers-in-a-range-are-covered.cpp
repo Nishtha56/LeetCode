@@ -1,6 +1,10 @@
 class Solution {
 public:
     bool isCovered(vector<vector<int>>& ranges, int left, int right) {
+        //Line sweep//diff array//partial sum
+        //take line array in this take a will be 1 and b will -1 
+        //in prefix array do prefix sum using line array
+        //then check it
         int last=right;
         for(int i=0;i<ranges.size();i++){
             last=max(last, ranges[i][1]);
