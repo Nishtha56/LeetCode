@@ -50,6 +50,7 @@ Important leetcode questions with their solutions
 | [0442-find-all-duplicates-in-an-array](https://github.com/Nishtha56/LeetCode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Nishtha56/LeetCode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0463-island-perimeter](https://github.com/Nishtha56/LeetCode/tree/main/0463-island-perimeter/) | Easy |
+| [0485-max-consecutive-ones](https://github.com/Nishtha56/LeetCode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0506-relative-ranks](https://github.com/Nishtha56/LeetCode/tree/main/0506-relative-ranks/) | Easy |
 | [0605-can-place-flowers](https://github.com/Nishtha56/LeetCode/tree/main/0605-can-place-flowers/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Nishtha56/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
