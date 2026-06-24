@@ -86,6 +86,7 @@ Important leetcode questions with their solutions
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Nishtha56/LeetCode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/Nishtha56/LeetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Nishtha56/LeetCode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
+| [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Nishtha56/LeetCode/tree/main/1893-check-if-all-the-integers-in-a-range-are-covered/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/Nishtha56/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Nishtha56/LeetCode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Nishtha56/LeetCode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
@@ -399,6 +400,7 @@ Important leetcode questions with their solutions
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Nishtha56/LeetCode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1207-unique-number-of-occurrences](https://github.com/Nishtha56/LeetCode/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Nishtha56/LeetCode/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
+| [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Nishtha56/LeetCode/tree/main/1893-check-if-all-the-integers-in-a-range-are-covered/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/Nishtha56/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Nishtha56/LeetCode/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Nishtha56/LeetCode/tree/main/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
@@ -501,6 +503,7 @@ Important leetcode questions with their solutions
 | [1004-max-consecutive-ones-iii](https://github.com/Nishtha56/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/Nishtha56/LeetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1871-jump-game-vii](https://github.com/Nishtha56/LeetCode/tree/main/1871-jump-game-vii/) | Medium |
+| [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Nishtha56/LeetCode/tree/main/1893-check-if-all-the-integers-in-a-range-are-covered/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/Nishtha56/LeetCode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Nishtha56/LeetCode/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
 | [3225-maximum-score-from-grid-operations](https://github.com/Nishtha56/LeetCode/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
