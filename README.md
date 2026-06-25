@@ -126,6 +126,7 @@ Important leetcode questions with their solutions
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Nishtha56/LeetCode/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Nishtha56/LeetCode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Nishtha56/LeetCode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
+| [3649-number-of-perfect-pairs](https://github.com/Nishtha56/LeetCode/tree/main/3649-number-of-perfect-pairs/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Nishtha56/LeetCode/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 | [3689-maximum-total-subarray-value-i](https://github.com/Nishtha56/LeetCode/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Nishtha56/LeetCode/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
@@ -290,6 +291,7 @@ Important leetcode questions with their solutions
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Nishtha56/LeetCode/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Nishtha56/LeetCode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Nishtha56/LeetCode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
+| [3649-number-of-perfect-pairs](https://github.com/Nishtha56/LeetCode/tree/main/3649-number-of-perfect-pairs/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Nishtha56/LeetCode/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -470,6 +472,7 @@ Important leetcode questions with their solutions
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Nishtha56/LeetCode/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Nishtha56/LeetCode/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Nishtha56/LeetCode/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
+| [3649-number-of-perfect-pairs](https://github.com/Nishtha56/LeetCode/tree/main/3649-number-of-perfect-pairs/) | Medium |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Nishtha56/LeetCode/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Nishtha56/LeetCode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Nishtha56/LeetCode/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
@@ -650,6 +653,7 @@ Important leetcode questions with their solutions
 | [2540-minimum-common-value](https://github.com/Nishtha56/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Nishtha56/LeetCode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Nishtha56/LeetCode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
+| [3649-number-of-perfect-pairs](https://github.com/Nishtha56/LeetCode/tree/main/3649-number-of-perfect-pairs/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
