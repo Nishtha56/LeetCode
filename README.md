@@ -65,6 +65,7 @@ Important leetcode questions with their solutions
 | [0904-fruit-into-baskets](https://github.com/Nishtha56/LeetCode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/Nishtha56/LeetCode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Nishtha56/LeetCode/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Nishtha56/LeetCode/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [0990-satisfiability-of-equality-equations](https://github.com/Nishtha56/LeetCode/tree/main/0990-satisfiability-of-equality-equations/) | Medium |
 | [0994-rotting-oranges](https://github.com/Nishtha56/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
 | [0999-available-captures-for-rook](https://github.com/Nishtha56/LeetCode/tree/main/0999-available-captures-for-rook/) | Easy |
@@ -401,6 +402,7 @@ Important leetcode questions with their solutions
 | [0692-top-k-frequent-words](https://github.com/Nishtha56/LeetCode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/Nishtha56/LeetCode/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Nishtha56/LeetCode/tree/main/0904-fruit-into-baskets/) | Medium |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Nishtha56/LeetCode/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Nishtha56/LeetCode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1207-unique-number-of-occurrences](https://github.com/Nishtha56/LeetCode/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Nishtha56/LeetCode/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
@@ -507,6 +509,7 @@ Important leetcode questions with their solutions
 | [0238-product-of-array-except-self](https://github.com/Nishtha56/LeetCode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/Nishtha56/LeetCode/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0724-find-pivot-index](https://github.com/Nishtha56/LeetCode/tree/main/0724-find-pivot-index/) | Easy |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Nishtha56/LeetCode/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Nishtha56/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/Nishtha56/LeetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1871-jump-game-vii](https://github.com/Nishtha56/LeetCode/tree/main/1871-jump-game-vii/) | Medium |
