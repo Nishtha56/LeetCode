@@ -57,6 +57,7 @@ Important leetcode questions with their solutions
 | [0506-relative-ranks](https://github.com/Nishtha56/LeetCode/tree/main/0506-relative-ranks/) | Easy |
 | [0566-reshape-the-matrix](https://github.com/Nishtha56/LeetCode/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0605-can-place-flowers](https://github.com/Nishtha56/LeetCode/tree/main/0605-can-place-flowers/) | Easy |
+| [0622-design-circular-queue](https://github.com/Nishtha56/LeetCode/tree/main/0622-design-circular-queue/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Nishtha56/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/Nishtha56/LeetCode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/Nishtha56/LeetCode/tree/main/0692-top-k-frequent-words/) | Medium |
@@ -617,6 +618,7 @@ Important leetcode questions with their solutions
 | [0138-copy-list-with-random-pointer](https://github.com/Nishtha56/LeetCode/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0142-linked-list-cycle-ii](https://github.com/Nishtha56/LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0445-add-two-numbers-ii](https://github.com/Nishtha56/LeetCode/tree/main/0445-add-two-numbers-ii/) | Medium |
+| [0622-design-circular-queue](https://github.com/Nishtha56/LeetCode/tree/main/0622-design-circular-queue/) | Medium |
 | [0707-design-linked-list](https://github.com/Nishtha56/LeetCode/tree/main/0707-design-linked-list/) | Medium |
 | [1472-design-browser-history](https://github.com/Nishtha56/LeetCode/tree/main/1472-design-browser-history/) | Medium |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Nishtha56/LeetCode/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
@@ -664,6 +666,7 @@ Important leetcode questions with their solutions
 | [0295-find-median-from-data-stream](https://github.com/Nishtha56/LeetCode/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0303-range-sum-query-immutable](https://github.com/Nishtha56/LeetCode/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0380-insert-delete-getrandom-o1](https://github.com/Nishtha56/LeetCode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
+| [0622-design-circular-queue](https://github.com/Nishtha56/LeetCode/tree/main/0622-design-circular-queue/) | Medium |
 | [0707-design-linked-list](https://github.com/Nishtha56/LeetCode/tree/main/0707-design-linked-list/) | Medium |
 | [1472-design-browser-history](https://github.com/Nishtha56/LeetCode/tree/main/1472-design-browser-history/) | Medium |
 | [1603-design-parking-system](https://github.com/Nishtha56/LeetCode/tree/main/1603-design-parking-system/) | Easy |
@@ -751,6 +754,7 @@ Important leetcode questions with their solutions
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0622-design-circular-queue](https://github.com/Nishtha56/LeetCode/tree/main/0622-design-circular-queue/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/Nishtha56/LeetCode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [2944-minimum-number-of-coins-for-fruits](https://github.com/Nishtha56/LeetCode/tree/main/2944-minimum-number-of-coins-for-fruits/) | Medium |
 ## Monotonic Queue
