@@ -13,16 +13,16 @@ class MyLinkedList{
 public:
     Node* head;
     Node* tail;
-    int size;
+    int sz;
 
     MyLinkedList(){
         head=NULL;
         tail=NULL;
-        size=0;
+        sz=0;
     }
 
     int get(int index){
-        if(index<0 || index>=size)
+        if(index<0 || index>=sz)
             return -1;
 
         Node* temp=head;
@@ -46,7 +46,7 @@ public:
             head=node;
         }
 
-        size++;
+        sz++;
     }
 
     void addAtTail(int val){
@@ -61,11 +61,11 @@ public:
             tail=node;
         }
 
-        size++;
+        sz++;
     }
 
     void addAtIndex(int index,int val){
-        if(index<0 || index>size)
+        if(index<0 || index>sz)
             return;
 
         if(index==0){
@@ -80,11 +80,11 @@ public:
                 head=node;
             }
 
-            size++;
+            sz++;
             return;
         }
 
-        if(index==size){
+        if(index==sz){
             Node* node=new Node(val);
 
             if(head==NULL){
@@ -96,7 +96,7 @@ public:
                 tail=node;
             }
 
-            size++;
+            sz++;
             return;
         }
 
@@ -110,22 +110,22 @@ public:
         node->next=temp->next;
         temp->next=node;
 
-        size++;
+        sz++;
     }
 
     void deleteAtIndex(int index){
-        if(index<0 || index>=size)
+        if(index<0 || index>=sz)
             return;
 
         if(index==0){
             Node* temp=head;
             head=head->next;
 
-            if(size==1)
+            if(sz==1)
                 tail=NULL;
 
             delete temp;
-            size--;
+            sz--;
             return;
         }
 
@@ -142,6 +142,6 @@ public:
             tail=temp;
 
         delete del;
-        size--;
+        sz--;
     }
 };
