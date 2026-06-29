@@ -4,24 +4,34 @@ public:
 
         int n = nums.size();
 
-        vector<long long> minPrefix(k, LLONG_MAX);
-
-        long long prefix = 0;
+        long long prefixSum = 0;
         long long ans = LLONG_MIN;
 
-        minPrefix[0] = 0;
+        // remainder -> minimum prefix sum
+        unordered_map<int, long long> mp;
+
+        // Prefix sum before starting the array
+        mp[0] = 0;
 
         for (int i = 0; i < n; i++) {
 
-            prefix += nums[i];
+            prefixSum += nums[i];
 
+            // Prefix index = i + 1
             int rem = (i + 1) % k;
 
-            if (minPrefix[rem] != LLONG_MAX) {
-                ans = max(ans, prefix - minPrefix[rem]);
+            // If same remainder was seen before
+            if (mp.find(rem) != mp.end()) {
+                ans = max(ans, prefixSum - mp[rem]);
             }
 
-            minPrefix[rem] = min(minPrefix[rem], prefix);
+            // Store the minimum prefix sum for this remainder
+            if (mp.find(rem) == mp.end()) {
+                mp[rem] = prefixSum;
+            }
+            else {
+                mp[rem] = min(mp[rem], prefixSum);
+            }
         }
 
         return ans;
