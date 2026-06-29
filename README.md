@@ -131,6 +131,7 @@ Important leetcode questions with their solutions
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Nishtha56/LeetCode/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 | [3689-maximum-total-subarray-value-i](https://github.com/Nishtha56/LeetCode/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Nishtha56/LeetCode/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
+| [3728-stable-subarrays-with-equal-boundary-and-interior-sum](https://github.com/Nishtha56/LeetCode/tree/main/3728-stable-subarrays-with-equal-boundary-and-interior-sum/) | Medium |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Nishtha56/LeetCode/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Nishtha56/LeetCode/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Nishtha56/LeetCode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
@@ -426,6 +427,7 @@ Important leetcode questions with their solutions
 | [3120-count-the-number-of-special-characters-i](https://github.com/Nishtha56/LeetCode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Nishtha56/LeetCode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3488-closest-equal-element-queries](https://github.com/Nishtha56/LeetCode/tree/main/3488-closest-equal-element-queries/) | Medium |
+| [3728-stable-subarrays-with-equal-boundary-and-interior-sum](https://github.com/Nishtha56/LeetCode/tree/main/3728-stable-subarrays-with-equal-boundary-and-interior-sum/) | Medium |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Nishtha56/LeetCode/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Nishtha56/LeetCode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 ## Backtracking
@@ -527,6 +529,7 @@ Important leetcode questions with their solutions
 | [3225-maximum-score-from-grid-operations](https://github.com/Nishtha56/LeetCode/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3546-equal-sum-grid-partition-i](https://github.com/Nishtha56/LeetCode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Nishtha56/LeetCode/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
+| [3728-stable-subarrays-with-equal-boundary-and-interior-sum](https://github.com/Nishtha56/LeetCode/tree/main/3728-stable-subarrays-with-equal-boundary-and-interior-sum/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
