@@ -120,6 +120,7 @@ Important leetcode questions with their solutions
 | [3225-maximum-score-from-grid-operations](https://github.com/Nishtha56/LeetCode/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Nishtha56/LeetCode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Nishtha56/LeetCode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Nishtha56/LeetCode/tree/main/3381-maximum-subarray-sum-with-length-divisible-by-k/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Nishtha56/LeetCode/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3488-closest-equal-element-queries](https://github.com/Nishtha56/LeetCode/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/Nishtha56/LeetCode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
@@ -427,6 +428,7 @@ Important leetcode questions with their solutions
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Nishtha56/LeetCode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Nishtha56/LeetCode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Nishtha56/LeetCode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Nishtha56/LeetCode/tree/main/3381-maximum-subarray-sum-with-length-divisible-by-k/) | Medium |
 | [3488-closest-equal-element-queries](https://github.com/Nishtha56/LeetCode/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3728-stable-subarrays-with-equal-boundary-and-interior-sum](https://github.com/Nishtha56/LeetCode/tree/main/3728-stable-subarrays-with-equal-boundary-and-interior-sum/) | Medium |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Nishtha56/LeetCode/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
@@ -529,6 +531,7 @@ Important leetcode questions with their solutions
 | [2574-left-and-right-sum-differences](https://github.com/Nishtha56/LeetCode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Nishtha56/LeetCode/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
 | [3225-maximum-score-from-grid-operations](https://github.com/Nishtha56/LeetCode/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Nishtha56/LeetCode/tree/main/3381-maximum-subarray-sum-with-length-divisible-by-k/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/Nishtha56/LeetCode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3628-maximum-number-of-subsequences-after-one-inserting](https://github.com/Nishtha56/LeetCode/tree/main/3628-maximum-number-of-subsequences-after-one-inserting/) | Medium |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Nishtha56/LeetCode/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
