@@ -358,6 +358,7 @@ Important leetcode questions with their solutions
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Nishtha56/LeetCode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3612-process-string-with-special-operations-i](https://github.com/Nishtha56/LeetCode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3614-process-string-with-special-operations-ii](https://github.com/Nishtha56/LeetCode/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
+| [3628-maximum-number-of-subsequences-after-one-inserting](https://github.com/Nishtha56/LeetCode/tree/main/3628-maximum-number-of-subsequences-after-one-inserting/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/Nishtha56/LeetCode/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Graph Theory
 | Problem Name | Difficulty |
@@ -506,6 +507,7 @@ Important leetcode questions with their solutions
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Nishtha56/LeetCode/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
 | [3225-maximum-score-from-grid-operations](https://github.com/Nishtha56/LeetCode/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Nishtha56/LeetCode/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
+| [3628-maximum-number-of-subsequences-after-one-inserting](https://github.com/Nishtha56/LeetCode/tree/main/3628-maximum-number-of-subsequences-after-one-inserting/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Nishtha56/LeetCode/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Nishtha56/LeetCode/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Nishtha56/LeetCode/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
@@ -528,6 +530,7 @@ Important leetcode questions with their solutions
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Nishtha56/LeetCode/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
 | [3225-maximum-score-from-grid-operations](https://github.com/Nishtha56/LeetCode/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3546-equal-sum-grid-partition-i](https://github.com/Nishtha56/LeetCode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
+| [3628-maximum-number-of-subsequences-after-one-inserting](https://github.com/Nishtha56/LeetCode/tree/main/3628-maximum-number-of-subsequences-after-one-inserting/) | Medium |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Nishtha56/LeetCode/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 | [3728-stable-subarrays-with-equal-boundary-and-interior-sum](https://github.com/Nishtha56/LeetCode/tree/main/3728-stable-subarrays-with-equal-boundary-and-interior-sum/) | Medium |
 ## Binary Search
@@ -566,6 +569,7 @@ Important leetcode questions with their solutions
 | [2126-destroying-asteroids](https://github.com/Nishtha56/LeetCode/tree/main/2126-destroying-asteroids/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/Nishtha56/LeetCode/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Nishtha56/LeetCode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
+| [3628-maximum-number-of-subsequences-after-one-inserting](https://github.com/Nishtha56/LeetCode/tree/main/3628-maximum-number-of-subsequences-after-one-inserting/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Nishtha56/LeetCode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Nishtha56/LeetCode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/Nishtha56/LeetCode/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
