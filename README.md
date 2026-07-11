@@ -130,6 +130,7 @@ Important leetcode questions with their solutions
 | [3546-equal-sum-grid-partition-i](https://github.com/Nishtha56/LeetCode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Nishtha56/LeetCode/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Nishtha56/LeetCode/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
+| [3620-network-recovery-pathways](https://github.com/Nishtha56/LeetCode/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Nishtha56/LeetCode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Nishtha56/LeetCode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3649-number-of-perfect-pairs](https://github.com/Nishtha56/LeetCode/tree/main/3649-number-of-perfect-pairs/) | Medium |
@@ -325,6 +326,7 @@ Important leetcode questions with their solutions
 | [2944-minimum-number-of-coins-for-fruits](https://github.com/Nishtha56/LeetCode/tree/main/2944-minimum-number-of-coins-for-fruits/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Nishtha56/LeetCode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Nishtha56/LeetCode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
+| [3620-network-recovery-pathways](https://github.com/Nishtha56/LeetCode/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Nishtha56/LeetCode/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 ## String
 | Problem Name | Difficulty |
@@ -392,12 +394,14 @@ Important leetcode questions with their solutions
 | [2685-count-the-number-of-complete-components](https://github.com/Nishtha56/LeetCode/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Nishtha56/LeetCode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Nishtha56/LeetCode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
+| [3620-network-recovery-pathways](https://github.com/Nishtha56/LeetCode/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/Nishtha56/LeetCode/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/Nishtha56/LeetCode/tree/main/0210-course-schedule-ii/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/Nishtha56/LeetCode/tree/main/0802-find-eventual-safe-states/) | Medium |
+| [3620-network-recovery-pathways](https://github.com/Nishtha56/LeetCode/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -522,6 +526,7 @@ Important leetcode questions with their solutions
 | [3225-maximum-score-from-grid-operations](https://github.com/Nishtha56/LeetCode/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Nishtha56/LeetCode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Nishtha56/LeetCode/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
+| [3620-network-recovery-pathways](https://github.com/Nishtha56/LeetCode/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3628-maximum-number-of-subsequences-after-one-inserting](https://github.com/Nishtha56/LeetCode/tree/main/3628-maximum-number-of-subsequences-after-one-inserting/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Nishtha56/LeetCode/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Nishtha56/LeetCode/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
@@ -572,6 +577,7 @@ Important leetcode questions with their solutions
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Nishtha56/LeetCode/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3488-closest-equal-element-queries](https://github.com/Nishtha56/LeetCode/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Nishtha56/LeetCode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
+| [3620-network-recovery-pathways](https://github.com/Nishtha56/LeetCode/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Nishtha56/LeetCode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Nishtha56/LeetCode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Nishtha56/LeetCode/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
@@ -636,6 +642,7 @@ Important leetcode questions with their solutions
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Nishtha56/LeetCode/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
 | [1514-path-with-maximum-probability](https://github.com/Nishtha56/LeetCode/tree/main/1514-path-with-maximum-probability/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Nishtha56/LeetCode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3620-network-recovery-pathways](https://github.com/Nishtha56/LeetCode/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
