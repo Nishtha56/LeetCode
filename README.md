@@ -126,6 +126,7 @@ Important leetcode questions with their solutions
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Nishtha56/LeetCode/tree/main/3381-maximum-subarray-sum-with-length-divisible-by-k/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Nishtha56/LeetCode/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3488-closest-equal-element-queries](https://github.com/Nishtha56/LeetCode/tree/main/3488-closest-equal-element-queries/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Nishtha56/LeetCode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3546-equal-sum-grid-partition-i](https://github.com/Nishtha56/LeetCode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Nishtha56/LeetCode/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Nishtha56/LeetCode/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
@@ -297,6 +298,7 @@ Important leetcode questions with their solutions
 | [2784-check-if-array-is-good](https://github.com/Nishtha56/LeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2785-sort-vowels-in-a-string](https://github.com/Nishtha56/LeetCode/tree/main/2785-sort-vowels-in-a-string/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Nishtha56/LeetCode/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Nishtha56/LeetCode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Nishtha56/LeetCode/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Nishtha56/LeetCode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Nishtha56/LeetCode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
@@ -389,6 +391,7 @@ Important leetcode questions with their solutions
 | [2421-number-of-good-paths](https://github.com/Nishtha56/LeetCode/tree/main/2421-number-of-good-paths/) | Hard |
 | [2685-count-the-number-of-complete-components](https://github.com/Nishtha56/LeetCode/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Nishtha56/LeetCode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Nishtha56/LeetCode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -517,6 +520,7 @@ Important leetcode questions with their solutions
 | [2944-minimum-number-of-coins-for-fruits](https://github.com/Nishtha56/LeetCode/tree/main/2944-minimum-number-of-coins-for-fruits/) | Medium |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Nishtha56/LeetCode/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
 | [3225-maximum-score-from-grid-operations](https://github.com/Nishtha56/LeetCode/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Nishtha56/LeetCode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Nishtha56/LeetCode/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3628-maximum-number-of-subsequences-after-one-inserting](https://github.com/Nishtha56/LeetCode/tree/main/3628-maximum-number-of-subsequences-after-one-inserting/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Nishtha56/LeetCode/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
@@ -567,6 +571,7 @@ Important leetcode questions with their solutions
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Nishtha56/LeetCode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Nishtha56/LeetCode/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3488-closest-equal-element-queries](https://github.com/Nishtha56/LeetCode/tree/main/3488-closest-equal-element-queries/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Nishtha56/LeetCode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Nishtha56/LeetCode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Nishtha56/LeetCode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Nishtha56/LeetCode/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
@@ -582,6 +587,7 @@ Important leetcode questions with their solutions
 | [2126-destroying-asteroids](https://github.com/Nishtha56/LeetCode/tree/main/2126-destroying-asteroids/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/Nishtha56/LeetCode/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Nishtha56/LeetCode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Nishtha56/LeetCode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3628-maximum-number-of-subsequences-after-one-inserting](https://github.com/Nishtha56/LeetCode/tree/main/3628-maximum-number-of-subsequences-after-one-inserting/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Nishtha56/LeetCode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Nishtha56/LeetCode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
@@ -678,6 +684,7 @@ Important leetcode questions with their solutions
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Nishtha56/LeetCode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Nishtha56/LeetCode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2540-minimum-common-value](https://github.com/Nishtha56/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Nishtha56/LeetCode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Nishtha56/LeetCode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Nishtha56/LeetCode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3649-number-of-perfect-pairs](https://github.com/Nishtha56/LeetCode/tree/main/3649-number-of-perfect-pairs/) | Medium |
@@ -746,6 +753,7 @@ Important leetcode questions with their solutions
 | [0371-sum-of-two-integers](https://github.com/Nishtha56/LeetCode/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0784-letter-case-permutation](https://github.com/Nishtha56/LeetCode/tree/main/0784-letter-case-permutation/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Nishtha56/LeetCode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Nishtha56/LeetCode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Nishtha56/LeetCode/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
